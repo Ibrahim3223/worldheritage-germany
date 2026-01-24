@@ -1,0 +1,55 @@
+{{ define "main" }}
+<div class="bg-white">
+  <!-- Page Header -->
+  <div class="bg-gradient-to-br from-forest-700 to-forest-900 text-white py-12 md:py-16">
+    <div class="container-custom">
+      <h1 class="text-3xl md:text-5xl font-serif font-bold text-white mb-4">
+        {{ .Title }}
+      </h1>
+      {{ with .Description }}
+        <p class="text-lg text-sage-200 max-w-3xl">{{ . }}</p>
+      {{ end }}
+      <div class="mt-4 text-sage-300">
+        {{ len .Pages }} {{ if eq (len .Pages) 1 }}site{{ else }}sites{{ end }}
+      </div>
+    </div>
+  </div>
+
+  <!-- Content -->
+  <div class="container-custom py-12">
+    <!-- Sites Grid -->
+    {{ $pages := .Pages }}
+    {{ $termName := .Title }}
+    {{ $taxonomy := .Data.Plural }}
+    
+    <!-- Manual filtering if .Pages is empty -->
+    {{ if not $pages }}
+      {{ $pages = where site.RegularPages "Section" "sites" }}
+      {{ if eq $taxonomy "regions" }}
+        {{ $pages = where $pages "Params.region" "intersect" (slice $termName) }}
+      {{ else if eq $taxonomy "heritage-types" }}
+        {{ $pages = where $pages "Params.heritagetype" "intersect" (slice $termName) }}
+      {{ else if eq $taxonomy "tags" }}
+        {{ $pages = where $pages "Params.tag" "intersect" (slice $termName) }}
+      {{ end }}
+    {{ end }}
+
+    {{ if $pages }}
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8" style="grid-auto-rows: 530px;">
+        {{ range $pages }}
+          {{ partial "site-card.html" . }}
+        {{ end }}
+      </div>
+    {{ else }}
+      <div class="text-center py-16">
+        <div class="text-6xl mb-4">🏛️</div>
+        <h2 class="text-2xl font-serif font-bold text-charcoal mb-2">No sites found</h2>
+        <p class="text-stone">Check back soon as we add more heritage sites.</p>
+        <div class="mt-6">
+          <a href="/" class="btn btn-primary">Back to Home</a>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

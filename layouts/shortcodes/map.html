@@ -1,0 +1,31 @@
+{{/* Map shortcode - displays an interactive map for heritage sites */}}
+{{ $lat := .Get "latitude" }}
+{{ $lng := .Get "longitude" }}
+{{ $zoom := .Get "zoom" | default "15" }}
+{{ $height := .Get "height" | default "400px" }}
+
+{{ if and $lat $lng }}
+<div class="heritage-map-container" style="margin: 1.5rem 0;">
+  <div id="map-{{ $lat | urlize }}"
+       class="heritage-map"
+       style="width: 100%; height: {{ $height }}; border-radius: 8px; border: 1px solid #e5e7eb;"
+       data-latitude="{{ $lat }}"
+       data-longitude="{{ $lng }}"
+       data-zoom="{{ $zoom }}">
+    <!-- Fallback: Static map image from OpenStreetMap -->
+    <a href="https://www.openstreetmap.org/?mlat={{ $lat }}&mlon={{ $lng }}#map={{ $zoom }}/{{ $lat }}/{{ $lng }}"
+       target="_blank"
+       rel="noopener noreferrer">
+      <img src="https://staticmap.openstreetmap.de/staticmap.php?center={{ $lat }},{{ $lng }}&zoom={{ $zoom }}&size=800x{{ $height | replaceRE "px$" "" }}&markers={{ $lat }},{{ $lng }},red-pushpin"
+           alt="Map showing location at {{ $lat }}, {{ $lng }}"
+           style="width: 100%; height: {{ $height }}; object-fit: cover; border-radius: 8px;"
+           loading="lazy">
+    </a>
+  </div>
+  <p class="map-attribution" style="font-size: 0.75rem; color: #6b7280; margin-top: 0.5rem; text-align: right;">
+    Map data &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors
+  </p>
+</div>
+{{ else }}
+<p class="text-gray-500 italic">Map coordinates not available.</p>
+{{ end }}

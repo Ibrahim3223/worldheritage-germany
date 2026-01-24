@@ -1,0 +1,13 @@
+{{- $path := .Get 0 -}}
+{{- $customText := .Get 1 -}}
+{{- $page := .Site.GetPage $path -}}
+
+{{- if $page -}}
+  {{- $linkText := $customText | default $page.Title -}}
+  <a href="{{ $page.Permalink }}"
+     class="text-forest-600 hover:text-forest-700 underline hover:no-underline transition-colors font-medium"
+     title="Visit {{ $page.Title }}"
+  >{{ $linkText }}</a>
+{{- else -}}
+  <span class="text-red-600" title="Page not found: {{ $path }}">{{ $customText | default $path }} (broken link)</span>
+{{- end -}}

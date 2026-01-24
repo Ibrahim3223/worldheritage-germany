@@ -1,0 +1,58 @@
+{{ define "main" }}
+<div class="bg-white">
+  <div class="bg-gradient-to-br from-forest-700 to-forest-900 text-white py-16 md:py-20">
+    <div class="container-custom">
+      <div class="max-w-4xl mx-auto text-center">
+        <div class="inline-block px-4 py-2 bg-white/10 rounded-full text-sm font-semibold mb-6 backdrop-blur-sm">
+          🏛️ World Heritage Sites
+        </div>
+        <h1 class="text-4xl md:text-6xl font-serif font-bold text-white mb-6">UNESCO World Heritage Sites in Germany</h1>
+        <p class="text-xl md:text-2xl text-sage-100 mb-8 leading-relaxed">
+          Discover Germany's UNESCO-inscribed sites of outstanding universal value—masterpieces of human creativity and testimonies to cultural traditions that have shaped our world.
+        </p>
+
+      {{ $filteredPages := slice }}
+      {{ range where site.RegularPages "Section" "sites" }}
+        {{ $hasMatch := false }}
+        {{ range .Params.tag }}
+          {{ if eq . "unesco" }}
+            {{ $hasMatch = true }}
+          {{ end }}
+        {{ end }}
+        {{ if $hasMatch }}
+          {{ $filteredPages = $filteredPages | append . }}
+        {{ end }}
+      {{ end }}
+
+        <div class="flex items-center justify-center gap-3 mt-8">
+          <div class="h-px w-12 bg-white/30"></div>
+          <div class="px-6 py-3 bg-white/10 rounded-full backdrop-blur-sm">
+            <span class="text-3xl font-bold">{{ len $filteredPages }}</span>
+            <span class="text-sage-200 ml-2">{{ if eq (len $filteredPages) 1 }}Heritage Site{{ else }}Heritage Sites{{ end }}</span>
+          </div>
+          <div class="h-px w-12 bg-white/30"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-custom py-12">
+    {{ if gt (len $filteredPages) 0 }}
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8" style="grid-auto-rows: 530px;">
+        {{ range $filteredPages }}
+          {{ partial "site-card.html" . }}
+        {{ end }}
+      </div>
+    {{ else }}
+      <div class="text-center py-16">
+        <div class="text-6xl mb-4">🏛️</div>
+        <h2 class="text-2xl font-serif font-bold text-charcoal mb-2">No sites found</h2>
+        <p class="text-stone">Check back soon as we add more heritage sites.</p>
+        <div class="mt-6">
+          <a href="/" class="btn btn-primary">Back to Home</a>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

@@ -1,0 +1,4 @@
+{{- $data := dict -}}
+{{- $data = merge $data (dict "taxonomies" .Site.Taxonomies) -}}
+{{- $data = merge $data (dict "pages" (len .Site.RegularPages)) -}}
+{{ $data | jsonify (dict "indent" "  ") }}

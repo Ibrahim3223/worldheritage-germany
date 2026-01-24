@@ -1,0 +1,46 @@
+{{ define "main" }}
+<div class="bg-white">
+  <div class="bg-gradient-to-br from-forest-700 to-forest-900 text-white py-12 md:py-16">
+    <div class="container-custom">
+      <h1 class="text-3xl md:text-5xl font-serif font-bold text-white mb-4">{{ .Title }}</h1>
+      <p class="text-lg text-sage-200 max-w-3xl">Explore Germany's magnificent palaces and royal residences</p>
+      
+      {{ $filteredPages := slice }}
+      {{ range where site.RegularPages "Section" "sites" }}
+        {{ $hasMatch := false }}
+        {{ range .Params.heritagetype }}
+          {{ if eq . "palace" }}
+            {{ $hasMatch = true }}
+          {{ end }}
+        {{ end }}
+        {{ if $hasMatch }}
+          {{ $filteredPages = $filteredPages | append . }}
+        {{ end }}
+      {{ end }}
+      
+      <div class="mt-4 text-sage-300">
+        {{ len $filteredPages }} {{ if eq (len $filteredPages) 1 }}site{{ else }}sites{{ end }}
+      </div>
+    </div>
+  </div>
+
+  <div class="container-custom py-12">
+    {{ if gt (len $filteredPages) 0 }}
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8" style="grid-auto-rows: 530px;">
+        {{ range $filteredPages }}
+          {{ partial "site-card.html" . }}
+        {{ end }}
+      </div>
+    {{ else }}
+      <div class="text-center py-16">
+        <div class="text-6xl mb-4">🏛️</div>
+        <h2 class="text-2xl font-serif font-bold text-charcoal mb-2">No sites found</h2>
+        <p class="text-stone">Check back soon as we add more heritage sites.</p>
+        <div class="mt-6">
+          <a href="/" class="btn btn-primary">Back to Home</a>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

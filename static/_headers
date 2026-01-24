@@ -1,0 +1,64 @@
+# Cloudflare Pages Headers Configuration
+# Aggressive caching for static assets
+
+# Images - Cache for 1 year, immutable
+/images/*
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+
+# CSS - Cache for 1 year, immutable
+/css/*
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+
+# JavaScript - Cache for 1 year, immutable
+/js/*
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+
+# Fonts - Cache for 1 year, immutable
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+  Access-Control-Allow-Origin: *
+
+# Favicon - Cache for 1 month
+/favicon/*
+  Cache-Control: public, max-age=2592000
+  X-Content-Type-Options: nosniff
+
+# Logo - Cache for 1 month
+/logo.png
+  Cache-Control: public, max-age=2592000, immutable
+  X-Content-Type-Options: nosniff
+
+# HTML pages - Cache for 1 hour, must revalidate
+/*.html
+  Cache-Control: public, max-age=3600, must-revalidate
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: strict-origin-when-cross-origin
+
+# Search page - Short cache (5 minutes)
+/search/*
+  Cache-Control: public, max-age=300, must-revalidate
+  X-Content-Type-Options: nosniff
+
+# XML files (sitemap, RSS) - Cache for 1 day
+/*.xml
+  Cache-Control: public, max-age=86400, must-revalidate
+  X-Content-Type-Options: nosniff
+
+# JSON files - Cache for 1 day
+/*.json
+  Cache-Control: public, max-age=86400
+  X-Content-Type-Options: nosniff
+
+# Root level - Cache for 1 hour
+/
+  Cache-Control: public, max-age=3600, must-revalidate
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: strict-origin-when-cross-origin

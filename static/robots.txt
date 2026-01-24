@@ -1,0 +1,22 @@
+# robots.txt for WorldHeritage.guide - Germany
+
+# Allow all bots to crawl everything
+User-agent: *
+Allow: /
+
+# Specific rules for major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+# Disallow future admin paths (if needed)
+# Disallow: /admin/
+# Disallow: /api/
+# Disallow: /private/
+
+# Sitemap location
+Sitemap: https://de.worldheritage.guide/sitemap.xml

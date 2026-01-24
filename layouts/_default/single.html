@@ -1,0 +1,462 @@
+{{ define "main" }}
+
+<article class="bg-white">
+
+  <!-- Hero Header -->
+  <div class="relative h-96 md:h-[32rem] bg-forest-900">
+    {{ with .Params.images }}
+      <img
+        src="{{ partial "image-url.html" (dict "src" (index . 0) "site" $.Site) }}"
+        alt="{{ $.Params.site_name }} - {{ $.Params.heritage_type }} in {{ $.Params.region }}, Germany"
+        class="w-full h-full object-cover opacity-90"
+        loading="eager"
+        decoding="async"
+      >
+    {{ end }}
+    <div class="absolute inset-0 bg-gradient-to-t from-forest-900 via-transparent to-transparent"></div>
+
+    <!-- Title Overlay -->
+    <div class="absolute bottom-0 left-0 right-0 p-8 md:p-12">
+      <div class="container-custom">
+        <div class="max-w-4xl">
+          {{ if .Params.unesco }}
+            <div class="badge badge-unesco mb-4">UNESCO World Heritage Site</div>
+          {{ end }}
+          <h1 class="text-3xl md:text-5xl lg:text-6xl font-serif font-bold text-white text-shadow-lg mb-4">
+            {{ .Params.site_name }}
+          </h1>
+          <div class="flex flex-wrap items-center gap-4 text-sage-200">
+            <span class="flex items-center">
+              <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+              </svg>
+              {{ .Params.region }}, {{ .Params.country }}
+            </span>
+            {{ with .Params.heritage_type }}
+              <span>•</span>
+              <span>{{ . }}</span>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Breadcrumbs -->
+  {{ partial "breadcrumbs.html" . }}
+
+  <div class="container-custom py-12">
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
+
+      <!-- Main Content -->
+      <div class="lg:col-span-2">
+
+        <!-- Article Content -->
+        <div class="prose prose-lg max-w-none">
+          {{ .Content }}
+        </div>
+
+        <!-- Photo Gallery Section -->
+        {{ if and .Params.images (gt (len .Params.images) 1) }}
+        <div class="mt-12" x-data="{ currentImage: 0, totalImages: {{ len .Params.images }}, lightboxOpen: false }">
+          <h2 class="text-2xl font-serif font-bold text-charcoal mb-6">Photo Gallery</h2>
+
+          <!-- Large Image Carousel -->
+          <div class="relative">
+            <!-- Main Image Display -->
+            <div class="relative w-full h-[350px] md:h-[450px] max-w-4xl mx-auto bg-sand rounded-lg overflow-hidden shadow-xl cursor-pointer group"
+                 @click="lightboxOpen = true">
+              {{ range $index, $image := .Params.images }}
+                <div x-show="currentImage === {{ $index }}"
+                     x-transition:enter="transition ease-out duration-300"
+                     x-transition:enter-start="opacity-0"
+                     x-transition:enter-end="opacity-100"
+                     class="absolute inset-0">
+                  <img
+                    src="{{ partial "image-url.html" (dict "src" $image "site" $.Site) }}"
+                    alt="{{ $.Params.site_name }} - Photo {{ add $index 1 }}"
+                    class="w-full h-full object-cover"
+                    loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}"
+                  >
+                </div>
+              {{ end }}
+
+              <!-- Zoom hint overlay -->
+              <div class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-all flex items-center justify-center">
+                <div class="opacity-0 group-hover:opacity-100 transition-opacity bg-black/70 text-white px-4 py-2 rounded-full">
+                  <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0zM10 7v6m3-3H7"></path>
+                  </svg>
+                </div>
+              </div>
+
+              <!-- Navigation Buttons -->
+              <button
+                @click.stop="currentImage = currentImage > 0 ? currentImage - 1 : totalImages - 1"
+                class="absolute left-4 top-1/2 -translate-y-1/2 z-10 bg-black/50 hover:bg-black/70 text-white p-4 rounded-full transition-all backdrop-blur-sm"
+                aria-label="Previous image"
+              >
+                <svg class="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M15 19l-7-7 7-7"></path>
+                </svg>
+              </button>
+
+              <button
+                @click.stop="currentImage = currentImage < totalImages - 1 ? currentImage + 1 : 0"
+                class="absolute right-4 top-1/2 -translate-y-1/2 z-10 bg-black/50 hover:bg-black/70 text-white p-4 rounded-full transition-all backdrop-blur-sm"
+                aria-label="Next image"
+              >
+                <svg class="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"></path>
+                </svg>
+              </button>
+
+              <!-- Image Counter -->
+              <div class="absolute bottom-4 left-1/2 transform -translate-x-1/2 bg-black/60 text-white px-4 py-2 rounded-full text-sm backdrop-blur-sm">
+                <span x-text="currentImage + 1"></span> / <span x-text="totalImages"></span>
+              </div>
+            </div>
+
+            <!-- Thumbnail Navigation -->
+            <div class="mt-4 flex gap-2 overflow-x-auto pb-2 scrollbar-thin max-w-4xl mx-auto">
+              {{ range $index, $image := .Params.images }}
+                <button
+                  @click="currentImage = {{ $index }}"
+                  :class="currentImage === {{ $index }} ? 'ring-2 ring-forest-500' : 'opacity-60 hover:opacity-100'"
+                  class="flex-shrink-0 w-20 h-20 rounded-lg overflow-hidden transition-all shadow-md"
+                >
+                  <img
+                    src="{{ partial "image-url.html" (dict "src" $image "site" $.Site) }}"
+                    alt="Thumbnail {{ add $index 1 }}"
+                    class="w-full h-full object-cover"
+                    loading="lazy"
+                  >
+                </button>
+              {{ end }}
+            </div>
+          </div>
+
+          <!-- Lightbox Modal -->
+          <div x-show="lightboxOpen"
+               x-transition:enter="transition ease-out duration-300"
+               x-transition:enter-start="opacity-0"
+               x-transition:enter-end="opacity-100"
+               x-transition:leave="transition ease-in duration-200"
+               x-transition:leave-start="opacity-100"
+               x-transition:leave-end="opacity-0"
+               @click="lightboxOpen = false"
+               @keydown.escape.window="lightboxOpen = false"
+               class="fixed inset-0 z-50 flex items-center justify-center bg-black/95 p-4"
+               style="display: none;">
+
+            <!-- Close button -->
+            <button
+              @click="lightboxOpen = false"
+              class="absolute top-4 right-4 z-50 text-white hover:text-gray-300 p-2 rounded-full bg-black/50 hover:bg-black/70 transition-all"
+              aria-label="Close lightbox"
+            >
+              <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+              </svg>
+            </button>
+
+            <!-- Lightbox Image Container -->
+            <div class="relative w-full h-full flex items-center justify-center" @click.stop>
+              {{ range $index, $image := .Params.images }}
+                <div x-show="currentImage === {{ $index }}"
+                     x-transition:enter="transition ease-out duration-300"
+                     x-transition:enter-start="opacity-0 scale-95"
+                     x-transition:enter-end="opacity-100 scale-100"
+                     class="absolute inset-0 flex items-center justify-center p-4">
+                  <img
+                    src="{{ partial "image-url.html" (dict "src" $image "site" $.Site) }}"
+                    alt="{{ $.Params.site_name }} - Photo {{ add $index 1 }}"
+                    class="max-w-full max-h-full object-contain rounded-lg"
+                    loading="lazy"
+                  >
+                </div>
+              {{ end }}
+
+              <!-- Lightbox Navigation -->
+              <button
+                @click.stop="currentImage = currentImage > 0 ? currentImage - 1 : totalImages - 1"
+                class="absolute left-4 top-1/2 -translate-y-1/2 z-10 bg-black/60 hover:bg-black/80 text-white p-5 rounded-full transition-all"
+                aria-label="Previous image"
+              >
+                <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M15 19l-7-7 7-7"></path>
+                </svg>
+              </button>
+
+              <button
+                @click.stop="currentImage = currentImage < totalImages - 1 ? currentImage + 1 : 0"
+                class="absolute right-4 top-1/2 -translate-y-1/2 z-10 bg-black/60 hover:bg-black/80 text-white p-5 rounded-full transition-all"
+                aria-label="Next image"
+              >
+                <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"></path>
+                </svg>
+              </button>
+
+              <!-- Lightbox Counter -->
+              <div class="absolute bottom-8 left-1/2 transform -translate-x-1/2 bg-black/70 text-white px-6 py-3 rounded-full text-lg backdrop-blur-sm">
+                <span x-text="currentImage + 1"></span> / <span x-text="totalImages"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+
+        <!-- Map Section -->
+        {{ if and .Params.latitude .Params.longitude }}
+        <div class="mt-12">
+          <h2 class="text-2xl font-serif font-bold text-charcoal mb-6">Location</h2>
+          {{ partial "map.html" (dict "latitude" .Params.latitude "longitude" .Params.longitude "siteName" .Params.site_name) }}
+
+          <!-- Map Controls -->
+          <div class="mt-4 flex flex-wrap gap-3">
+            <a
+              href="https://www.google.com/maps/dir/?api=1&destination={{ .Params.latitude }},{{ .Params.longitude }}"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="btn btn-outline inline-flex items-center"
+              onclick="event.stopPropagation();"
+            >
+              <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7"></path>
+              </svg>
+              Get Directions on Google Maps
+            </a>
+
+            <a
+              href="https://www.openstreetmap.org/?mlat={{ .Params.latitude }}&mlon={{ .Params.longitude }}#map=17/{{ .Params.latitude }}/{{ .Params.longitude }}"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="btn btn-outline inline-flex items-center"
+            >
+              <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+              </svg>
+              View on OpenStreetMap
+            </a>
+          </div>
+
+          <!-- Coordinates Display -->
+          <div class="mt-3 text-sm text-stone flex items-center">
+            <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+            </svg>
+            Coordinates: {{ .Params.latitude }}, {{ .Params.longitude }}
+          </div>
+        </div>
+        {{ end }}
+      </div>
+
+      <!-- Sidebar -->
+      <div class="lg:col-span-1">
+        <div class="sticky top-24 space-y-6">
+
+          <!-- Visit Info Card -->
+          <div class="card">
+            <div class="card-body">
+              <h3 class="text-xl font-serif font-bold text-charcoal mb-4">Visit Information</h3>
+
+              <div class="space-y-4">
+                {{ with .Params.opening_hours }}
+                  <div>
+                    <div class="text-sm font-medium text-stone mb-1">Opening Hours</div>
+                    <div class="text-charcoal">{{ . }}</div>
+                  </div>
+                {{ end }}
+
+                {{ with .Params.entry_fee }}
+                  <div>
+                    <div class="text-sm font-medium text-stone mb-1">Entry Fee</div>
+                    <div class="text-charcoal">{{ . }}</div>
+                  </div>
+                {{ end }}
+
+                {{ with .Params.website }}
+                  <div>
+                    <a href="{{ . }}" target="_blank" rel="noopener" class="btn btn-primary w-full">
+                      <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
+                      </svg>
+                      Official Website
+                    </a>
+                  </div>
+                {{ end }}
+              </div>
+            </div>
+          </div>
+
+          <!-- Quick Facts -->
+          <div class="card">
+            <div class="card-body">
+              <h3 class="text-xl font-serif font-bold text-charcoal mb-4">Quick Facts</h3>
+
+              <dl class="space-y-3 text-sm">
+                {{ with .Params.heritage_type }}
+                  <div>
+                    <dt class="text-stone">Heritage Type</dt>
+                    <dd class="text-charcoal font-medium">{{ . }}</dd>
+                  </div>
+                {{ end }}
+
+                {{ if .Params.unesco }}
+                  <div>
+                    <dt class="text-stone">UNESCO Status</dt>
+                    <dd class="badge badge-unesco">World Heritage Site</dd>
+                  </div>
+                {{ end }}
+
+                {{ with .Params.region }}
+                  <div>
+                    <dt class="text-stone">Region</dt>
+                    <dd class="text-charcoal font-medium">{{ . }}</dd>
+                  </div>
+                {{ end }}
+
+                {{ with .Params.wikidata_id }}
+                  <div>
+                    <dt class="text-stone">Wikidata ID</dt>
+                    <dd>
+                      <a href="https://www.wikidata.org/wiki/{{ . }}"
+                         target="_blank"
+                         rel="noopener"
+                         class="text-forest-600 hover:underline text-xs">
+                        {{ . }}
+                      </a>
+                    </dd>
+                  </div>
+                {{ end }}
+              </dl>
+            </div>
+          </div>
+
+          <!-- Share Buttons -->
+          <div class="card">
+            <div class="card-body">
+              <h3 class="text-lg font-serif font-bold text-charcoal mb-4">Share</h3>
+              <div class="flex gap-3">
+                <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}"
+                   target="_blank"
+                   class="btn btn-outline flex-1 text-sm"
+                   aria-label="Share on Twitter">
+                  Twitter
+                </a>
+                <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}"
+                   target="_blank"
+                   class="btn btn-outline flex-1 text-sm"
+                   aria-label="Share on Facebook">
+                  Facebook
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Related Sites -->
+    {{ $related := where .Site.RegularPages "Params.region" .Params.region | first 4 }}
+    {{ if gt (len $related) 1 }}
+    <div class="mt-16 pt-12 border-t border-sand">
+      <h2 class="text-3xl font-serif font-bold text-charcoal mb-8">More in {{ .Params.region }}</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        {{ range $related }}
+          {{ if ne .Permalink $.Permalink }}
+            {{ partial "site-card.html" . }}
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</article>
+
+<!-- FAQ Accordion Script -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Find FAQ section
+  const prose = document.querySelector('.prose');
+  if (!prose) return;
+
+  // Find "Frequently Asked Questions" H2
+  const headings = prose.querySelectorAll('h2');
+  let faqHeading = null;
+
+  headings.forEach(h2 => {
+    if (h2.textContent.includes('Frequently Asked Questions')) {
+      faqHeading = h2;
+    }
+  });
+
+  if (!faqHeading) return;
+
+  // Get all H3 questions after FAQ heading
+  const faqQuestions = [];
+  let currentElement = faqHeading.nextElementSibling;
+
+  while (currentElement) {
+    if (currentElement.tagName === 'H2') break; // Stop at next H2
+    if (currentElement.tagName === 'H3') {
+      const question = currentElement;
+      const answer = question.nextElementSibling;
+      if (answer && answer.tagName === 'P') {
+        faqQuestions.push({ question, answer });
+      }
+    }
+    currentElement = currentElement.nextElementSibling;
+  }
+
+  if (faqQuestions.length === 0) return;
+
+  // Create FAQ container
+  const faqContainer = document.createElement('div');
+  faqContainer.className = 'faq-container mt-6';
+
+  // Create accordion items
+  faqQuestions.forEach((faq, index) => {
+    const faqItem = document.createElement('div');
+    faqItem.className = 'faq-item';
+    faqItem.setAttribute('x-data', `{ open: ${index === 0 ? 'true' : 'false'} }`);
+
+    const questionButton = document.createElement('button');
+    questionButton.className = 'faq-question';
+    questionButton.setAttribute('@click', 'open = !open');
+    questionButton.innerHTML = `
+      <span class="text-left">${faq.question.textContent}</span>
+      <svg class="faq-icon" :class="{ 'open': open }" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+      </svg>
+    `;
+
+    const answerDiv = document.createElement('div');
+    answerDiv.className = 'faq-answer';
+    answerDiv.setAttribute('x-show', 'open');
+    answerDiv.setAttribute('x-transition:enter', 'transition ease-out duration-200');
+    answerDiv.setAttribute('x-transition:enter-start', 'opacity-0');
+    answerDiv.setAttribute('x-transition:enter-end', 'opacity-100');
+    answerDiv.setAttribute('x-transition:leave', 'transition ease-in duration-150');
+    answerDiv.setAttribute('x-transition:leave-start', 'opacity-100');
+    answerDiv.setAttribute('x-transition:leave-end', 'opacity-0');
+    answerDiv.innerHTML = faq.answer.innerHTML;
+
+    faqItem.appendChild(questionButton);
+    faqItem.appendChild(answerDiv);
+    faqContainer.appendChild(faqItem);
+
+    // Remove original elements
+    faq.question.remove();
+    faq.answer.remove();
+  });
+
+  // Insert FAQ container after heading
+  faqHeading.parentNode.insertBefore(faqContainer, faqHeading.nextSibling);
+});
+</script>
+
+{{ end }}

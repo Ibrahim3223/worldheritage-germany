@@ -1,0 +1,65 @@
+{{ $related := .Site.RegularPages.Related . | first 3 }}
+{{ with $related }}
+<section class="bg-cream py-12 md:py-16">
+  <div class="container-custom">
+    <h2 class="text-3xl font-serif font-bold text-charcoal mb-8 text-center">
+      Related Articles
+    </h2>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      {{ range . }}
+      <article class="bg-white rounded-xl shadow-soft overflow-hidden transition-all duration-300 hover:shadow-medium hover:-translate-y-1 border border-sand/50 flex flex-col">
+        <!-- Featured Image -->
+        {{ with .Params.featured_image }}
+        <div class="relative h-48 overflow-hidden bg-sand flex-shrink-0">
+          <img
+            src="{{ . | relURL }}"
+            alt="{{ $.Title }}"
+            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+            loading="lazy"
+          >
+          {{ with $.Params.blog_category }}
+          <span class="absolute top-3 right-3 badge badge-unesco text-xs">{{ . }}</span>
+          {{ end }}
+        </div>
+        {{ end }}
+
+        <!-- Content -->
+        <div class="p-6 flex flex-col flex-grow">
+          <h3 class="text-lg font-serif font-bold text-charcoal mb-2 line-clamp-2">
+            <a href="{{ .Permalink }}" class="hover:text-forest-600 transition-colors">
+              {{ .Title }}
+            </a>
+          </h3>
+
+          <p class="text-stone text-sm mb-4 line-clamp-2 flex-grow">
+            {{ .Params.excerpt | default .Summary }}
+          </p>
+
+          <!-- Meta -->
+          <div class="pt-3 border-t border-sand flex items-center justify-between text-xs text-stone">
+            {{ with .Params.author }}
+              {{ $authorData := index $.Site.Data.authors . }}
+              <span>{{ $authorData.name }}</span>
+            {{ end }}
+
+            {{ with .ReadingTime }}
+            <span>{{ . }} min read</span>
+            {{ end }}
+          </div>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+
+    <div class="text-center mt-8">
+      <a href="/blog/" class="inline-flex items-center gap-2 px-6 py-3 bg-forest-600 hover:bg-forest-700 text-white font-semibold rounded-lg transition-colors">
+        View All Blog Posts
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+        </svg>
+      </a>
+    </div>
+  </div>
+</section>
+{{ end }}

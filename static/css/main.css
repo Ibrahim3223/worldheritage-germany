@@ -1,0 +1,388 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Custom Base Styles */
+@layer base {
+  body {
+    @apply font-sans text-charcoal bg-warm-white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif font-bold text-charcoal;
+    letter-spacing: -0.02em;
+    font-feature-settings: "kern" 1, "liga" 1, "dlig" 1;
+  }
+
+  h1 {
+    @apply text-4xl md:text-5xl lg:text-6xl;
+    letter-spacing: -0.03em;
+  }
+
+  h2 {
+    @apply text-3xl md:text-4xl lg:text-5xl;
+    letter-spacing: -0.025em;
+  }
+
+  h3 {
+    @apply text-2xl md:text-3xl;
+  }
+
+  h4 {
+    @apply text-xl md:text-2xl;
+  }
+
+  a {
+    @apply text-forest-600 hover:text-forest-700 transition-colors;
+  }
+}
+
+/* Custom Components */
+@layer components {
+  /* Buttons */
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 rounded-lg font-medium transition-all;
+  }
+
+  .btn-primary {
+    @apply bg-forest-500 text-white hover:bg-forest-600 shadow-md hover:shadow-lg;
+  }
+
+  .btn-secondary {
+    @apply bg-sage-500 text-white hover:bg-sage-600 shadow-md hover:shadow-lg;
+  }
+
+  .btn-outline {
+    @apply border-2 border-forest-500 text-forest-500 hover:bg-forest-500 hover:text-white;
+  }
+
+  /* Cards */
+  .card {
+    @apply bg-white rounded-xl shadow-soft overflow-hidden transition-all duration-300;
+  }
+
+  .card:hover {
+    @apply shadow-medium;
+    transform: translateY(-4px);
+  }
+
+  .card-image {
+    @apply w-full h-48 object-cover transition-transform duration-500;
+  }
+
+  .card:hover .card-image {
+    transform: scale(1.05);
+  }
+
+  .card-body {
+    @apply p-6;
+  }
+
+  .card-title {
+    @apply text-xl font-serif font-bold text-charcoal mb-2;
+  }
+
+  .card-text {
+    @apply text-stone text-base;
+  }
+
+  /* Badge */
+  .badge {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-sm font-medium;
+  }
+
+  .badge-unesco {
+    @apply bg-forest-100 text-forest-700;
+  }
+
+  .badge-popular {
+    @apply bg-terracotta-100 text-terracotta-700;
+  }
+
+  /* Container */
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  /* Section */
+  .section {
+    @apply py-12 md:py-16 lg:py-24;
+  }
+
+  /* Hero */
+  .hero {
+    @apply relative bg-gradient-to-br from-forest-700 to-forest-900 text-white;
+  }
+
+  .hero-title {
+    @apply text-4xl md:text-5xl lg:text-6xl font-serif font-bold mb-4;
+  }
+
+  .hero-subtitle {
+    @apply text-lg md:text-xl text-sage-200;
+  }
+}
+
+/* Custom Utilities */
+@layer utilities {
+  .text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .text-shadow-lg {
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+  }
+
+  /* Accessibility: Screen Reader Only */
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+  }
+
+  /* Accessibility: Focusable Skip Link */
+  .skip-link {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+  }
+
+  .skip-link:focus {
+    position: fixed;
+    top: 1rem;
+    left: 1rem;
+    z-index: 9999;
+    width: auto;
+    height: auto;
+    padding: 1rem 1.5rem;
+    margin: 0;
+    overflow: visible;
+    clip: auto;
+    white-space: normal;
+    background-color: #2C5F2D;
+    color: white;
+    border-radius: 0.5rem;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    font-weight: 600;
+  }
+}
+
+/* Accessibility: Enhanced Focus States */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+[tabindex]:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 2px #fff, 0 0 0 4px #2C5F2D;
+}
+
+/* Card focus states */
+.card:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 2px #fff, 0 0 0 4px #2C5F2D;
+}
+
+/* Accessibility: Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Prose Styling (for article content) */
+.prose {
+  @apply text-charcoal;
+}
+
+.prose h2 {
+  @apply text-forest-800 mt-8 mb-4;
+}
+
+.prose h3 {
+  @apply text-forest-700 mt-6 mb-3;
+}
+
+.prose p {
+  @apply mb-4 leading-relaxed;
+}
+
+.prose a {
+  @apply text-forest-600 underline hover:text-forest-700;
+}
+
+.prose img {
+  @apply rounded-lg shadow-medium my-6;
+}
+
+.prose blockquote {
+  @apply border-l-4 border-sage-500 pl-4 italic text-stone my-6;
+}
+
+.prose ul, .prose ol {
+  @apply my-4 ml-6;
+}
+
+.prose li {
+  @apply mb-2;
+}
+
+/* Map Container */
+.map-container {
+  @apply w-full h-96 rounded-xl overflow-hidden shadow-medium;
+}
+
+/* Loading State */
+.loading {
+  @apply animate-pulse bg-sand;
+}
+
+/* Navigation */
+.nav-link {
+  @apply text-charcoal hover:text-forest-600 font-medium transition-colors;
+}
+
+.nav-link-active {
+  @apply text-forest-600 font-semibold;
+}
+
+/* Footer */
+.footer {
+  @apply bg-forest-900 text-white py-12;
+}
+
+.footer a {
+  @apply text-sage-300 hover:text-white transition-colors;
+}
+
+/* Image Overlay */
+.image-overlay {
+  @apply absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent;
+}
+
+/* Grid Layouts */
+.grid-sites {
+  @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6;
+}
+
+.grid-regions {
+  @apply grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4;
+}
+
+/* Search */
+.search-input {
+  @apply w-full px-4 py-3 rounded-lg border border-stone/30 focus:border-forest-500 focus:ring-2 focus:ring-forest-200 outline-none transition-all;
+}
+
+/* Breadcrumb */
+.breadcrumb {
+  @apply flex items-center space-x-2 text-sm text-stone;
+}
+
+.breadcrumb-separator {
+  @apply text-stone/50;
+}
+
+/* Tags */
+.tag {
+  @apply inline-block px-3 py-1 bg-cream rounded-full text-sm text-stone hover:bg-sage-100 hover:text-forest-700 transition-colors;
+}
+
+/* Stats */
+.stat-card {
+  @apply bg-white rounded-lg p-6 text-center shadow-soft;
+}
+
+.stat-number {
+  @apply text-3xl font-serif font-bold text-forest-600;
+}
+
+.stat-label {
+  @apply text-stone text-sm mt-1;
+}
+
+/* FAQ Accordion */
+.faq-container {
+  @apply space-y-4;
+}
+
+.faq-item {
+  @apply bg-white rounded-xl border border-sand overflow-hidden shadow-soft transition-all duration-300;
+}
+
+.faq-item:hover {
+  @apply shadow-medium border-sage-200;
+}
+
+.faq-question {
+  @apply w-full text-left px-6 py-4 font-serif font-semibold text-forest-800 flex items-center justify-between cursor-pointer transition-colors;
+}
+
+.faq-question:hover {
+  @apply bg-cream/50;
+}
+
+.faq-icon {
+  @apply w-5 h-5 text-forest-600 transition-transform duration-300 flex-shrink-0 ml-3;
+}
+
+.faq-icon.open {
+  @apply rotate-180;
+}
+
+.faq-answer {
+  @apply px-6 pb-4 text-stone leading-relaxed;
+}
+
+.faq-answer p {
+  @apply mb-0;
+}
+
+/* Custom Scrollbar Styles */
+.scrollbar-thin::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-track {
+  @apply bg-sand rounded-lg;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  @apply bg-forest-400 rounded-lg hover:bg-forest-500;
+  transition: background-color 0.2s;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  @apply bg-forest-600;
+}
+
+/* Firefox scrollbar */
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: rgb(119, 140, 96) rgb(242, 237, 227);
+}

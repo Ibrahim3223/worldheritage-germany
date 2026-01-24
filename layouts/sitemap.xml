@@ -1,0 +1,57 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  {{ range .Data.Pages }}
+  {{- if ne .Kind "section" }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    {{ if not .Lastmod.IsZero }}
+    <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
+    {{ end }}
+
+    {{/* Set priority based on page type */}}
+    {{ if .IsHome }}
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+    {{ else if eq .Section "sites" }}
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+    {{ else if .IsSection }}
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    {{ else if eq .Type "page" }}
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+    {{ else }}
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    {{ end }}
+
+    {{/* Add images for site pages */}}
+    {{ if and (eq .Section "sites") .Params.images }}
+      {{ range first 5 .Params.images }}
+    <image:image>
+      <image:loc>{{ . | absURL }}</image:loc>
+      <image:caption>{{ $.Params.site_name }} - {{ $.Params.region }}, Germany</image:caption>
+    </image:image>
+      {{ end }}
+    {{ end }}
+
+    {{/* Add alternate language links for future i18n */}}
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="{{ .Permalink }}" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="{{ .Permalink }}" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="{{ .Permalink }}" />
+  </url>
+  {{ end }}
+  {{ end }}
+</urlset>

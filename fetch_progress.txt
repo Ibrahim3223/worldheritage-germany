@@ -1,0 +1,996 @@
+================================================================================
+MASTER SITE FETCHER - Germany
+================================================================================
+Target pages: 15,000
+Quality filters: {'min_sitelinks': 3, 'require_coordinates': True, 'require_image': False, 'min_claims': 5}
+Priorities: ['very_high', 'high', 'medium', 'low']
+
+
+================================================================================
+PRIORITY: VERY_HIGH (8 categories)
+================================================================================
+
+[1/8] geopark
+  Description: UNESCO Global Geoparks
+  Target: 20 sites
+  Querying Wikidata (fetching up to 60 for filtering)...
+  Fetched: 0, Accepted: 0, Filtered: 0
+  [SKIP] No sites found
+[2/8] national_park
+  Description: National parks
+  Target: 20 sites
+  Querying Wikidata (fetching up to 60 for filtering)...
+  Fetched: 1, Accepted: 1, Filtered: 0
+  [OK] Collected: 1 sites
+    - Coordinates: 1 (100.0%)
+    - Images: 1 (100.0%)
+    - Avg sitelinks: 27.0
+    - Saved: data\fetched\germany_national_park.json
+  Total progress: 1/15,000 (0.0%)
+[3/8] biosphere_reserve
+  Description: UNESCO Biosphere Reserves
+  Target: 20 sites
+  Querying Wikidata (fetching up to 60 for filtering)...
+  Fetched: 23, Accepted: 10, Filtered: 13
+    Reasons: {'low_sitelinks': 13, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 10 sites
+    - Coordinates: 10 (100.0%)
+    - Images: 9 (90.0%)
+    - Avg sitelinks: 4.9
+    - Saved: data\fetched\germany_biosphere_reserve.json
+  Total progress: 11/15,000 (0.1%)
+[4/8] museum
+  Description: Museums
+  Target: 2500 sites
+  Querying Wikidata (fetching up to 1000 for filtering)...
+  Fetched: 1000, Accepted: 808, Filtered: 192
+    Reasons: {'low_sitelinks': 173, 'no_coordinates': 19, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 808 sites
+    - Coordinates: 808 (100.0%)
+    - Images: 767 (94.9%)
+    - Avg sitelinks: 6.9
+    - Saved: data\fetched\germany_museum.json
+  Total progress: 819/15,000 (5.5%)
+[5/8] art_museum
+  Description: Art museums and galleries
+  Target: 400 sites
+  Querying Wikidata (fetching up to 1000 for filtering)...
+  Fetched: 329, Accepted: 194, Filtered: 135
+    Reasons: {'low_sitelinks': 134, 'no_coordinates': 1, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 194 sites
+    - Coordinates: 194 (100.0%)
+    - Images: 193 (99.5%)
+    - Avg sitelinks: 10.2
+    - Saved: data\fetched\germany_art_museum.json
+  Total progress: 1,013/15,000 (6.8%)
+[6/8] cathedral
+  Description: Cathedrals
+  Target: 50 sites
+  Querying Wikidata (fetching up to 150 for filtering)...
+  Fetched: 34, Accepted: 33, Filtered: 1
+    Reasons: {'low_sitelinks': 1, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 33 sites
+    - Coordinates: 33 (100.0%)
+    - Images: 33 (100.0%)
+    - Avg sitelinks: 14.5
+    - Saved: data\fetched\germany_cathedral.json
+  Total progress: 1,046/15,000 (7.0%)
+[7/8] castle
+  Description: Castles
+  Target: 800 sites
+  Querying Wikidata (fetching up to 1000 for filtering)...
+  Fetched: 1000, Accepted: 800, Filtered: 200
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 200}
+  [OK] Collected: 800 sites
+    - Coordinates: 800 (100.0%)
+    - Images: 789 (98.6%)
+    - Avg sitelinks: 4.9
+    - Saved: data\fetched\germany_castle.json
+  Total progress: 1,846/15,000 (12.3%)
+[8/8] palace
+  Description: Palaces
+  Target: 300 sites
+  Querying Wikidata (fetching up to 900 for filtering)...
+  Fetched: 168, Accepted: 81, Filtered: 87
+    Reasons: {'low_sitelinks': 87, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 81 sites
+    - Coordinates: 81 (100.0%)
+    - Images: 80 (98.8%)
+    - Avg sitelinks: 13.3
+    - Saved: data\fetched\germany_palace.json
+  Total progress: 1,927/15,000 (12.8%)
+
+================================================================================
+PRIORITY: HIGH (31 categories)
+================================================================================
+
+[1/31] waterfall
+  Description: Waterfalls and cascades
+  Target: 50 sites
+  Querying Wikidata (fetching up to 150 for filtering)...
+  Fetched: 142, Accepted: 31, Filtered: 111
+    Reasons: {'low_sitelinks': 111, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 31 sites
+    - Coordinates: 31 (100.0%)
+    - Images: 31 (100.0%)
+    - Avg sitelinks: 4.8
+    - Saved: data\fetched\germany_waterfall.json
+  Total progress: 1,958/15,000 (13.1%)
+[2/31] lake
+  Description: Natural and artificial lakes
+  Target: 200 sites
+  Querying Wikidata (fetching up to 600 for filtering)...
+  Fetched: 600, Accepted: 200, Filtered: 400
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 400}
+  [OK] Collected: 200 sites
+    - Coordinates: 200 (100.0%)
+    - Images: 196 (98.0%)
+    - Avg sitelinks: 11.1
+    - Saved: data\fetch  Fetched: 1000, Accepted: 807, Filtered: 193
+    Reasons: {'low_sitelinks': 173, 'no_coordinates': 19, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 807 sites
+    - Coordinates: 807 (  Fetched: 150, Accepted: 47, Filtered: 103
+    Reasons: {'low_sitelinks': 103, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 47 sites
+    - Coordinates: 47 (100.0%)
+    - Images: 39 (83.0%)
+    - Avg sitelinks: 5.1
+    - Saved: data\fetched\germany_c  Fetched: 329, Accepted: 194, Filtered: 135
+    Reasons: {'low_sitelinks': 134, 'no_coordinates': 1, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 194 sites
+    - Coordinates: 194 (100.0%)
+    - Images: 193 (99.5%)
+    - Avg sitelinks: 10.2
+    - Saved: data\fetched\germany_art_museum.json
+  Total progress: 1,012/15,000 (6.7%)
+[6/8] cathedral
+  Description: Cathedrals
+  Target: 50 sites
+  Querying Wikidata (fetching up to 150 for filtering)...
+  Fetched: 34, Accepted: 33, Filtered: 1
+    Reasons: {'low_sitelinks': 1, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 33 sites
+    - Coordinates: 33 (100.0%)
+    - Images: 33 (100.0%)
+    - Avg sitelinks: 14.5
+    - Saved: data\fetched\germany_cathedral.json
+  Total progress: 1,045/15,000 (7.0%)
+[7/8] castle
+  Description: Castles
+  Target: 800 sites
+  Querying Wikidata (fetching up to 1000 for filtering)...
+  Fetched: 1000, Accepted: 800, Filtered: 200
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 200}
+  [OK] Collected: 800 sites
+    - Coordinates: 800 (100.0%)  Fetched: 1000, Accepted: 229, Filtered: 771
+    Reasons: {'low_sitelinks': 771, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 229 sites
+    - Coordinates: 229 (100.0%)
+    - Images: 213 (93.0%)
+    - Avg sitelinks: 3.2
+     Fetched: 168, Accepted: 81, Filtered: 87
+    Reasons: {'low_sitelinks': 87, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 81 sites
+    - Coordinates: 81 (100.0%)
+    - Images: 80 (98.8%)
+    - Avg sitelinks: 13.3
+    - Saved: data\fetched\germany_palace.json
+  Total progress: 1,926/15,000 (12.8%)
+
+================================================================================
+PRIORITY: HIGH (31 categories)
+================================================================================
+
+[1/31] waterfall
+  Description: Waterfalls and cascades
+  Target: 50 sites
+  Querying Wikidata (fetching up to 150 for filtering)...
+  Fetched: 142, Accepted: 31, Filtered: 111
+    Reasons: {'low_sitelinks': 111, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 31 sites
+    - Coordinates: 31 (100.0%)
+    - Images: 31 (100.0%)
+    - Avg sitelinks: 4.8
+    - Saved: data\fetched\germany_waterfall.json
+  Total progress: 1,957/15,000 (13.0%)
+[2/31] lake
+  Description: Natural and artificial lakes
+  Target: 200 sites
+  Querying Wikidata (fetching up to 600 for filtering)...
+  Fetched: 600, Accepted: 200, Filtered: 400
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 400}
+  [OK] Collected: 200 sites
+    - Coordinates: 200 (100.0%)
+    - Images: 196 (98.0%)
+    - Avg sitelinks: 11.1
+    - Saved: data\fetched\germany_lake.json
+  Total progress: 2,157/15,000 (14.4%)
+[3/31] cave
+  Description: Natural caves and grottos
+  Target: 50 sites
+  Querying Wikidata (fetching up to 150 for filtering)...
+  Fetched: 150, Accepted: 47, Filtered: 103
+    Reasons: {'low_sitelinks': 103, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 47 sites
+    - Coordinates: 47 (100.0%)
+    - Images: 39 (83.0%)
+   Fetched: 600, Accepted: 96, Filtered: 504
+    Reasons: {'low_sitelinks': 502, 'no_coordinates': 2, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 96 sites
+    - Coordinates: 96 (100.0%)
+    - Images: 93 (96.9%)
+    - Avg sitelin  Fetched: 450, Accepted: 150, Filtered: 300
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 300}
+  [OK] Collected: 150 sites
+    - Coordinates: 150 (100.0%)
+    - Images: 150 (100.0%)
+    - Avg sitelinks: 12.8
+    - Saved: data\fetched\germany_mountain.json
+  Total progress: 2,354/15,000 (15.7%)
+[5/31] beach
+  Description: Beaches and coastlines
+  Target: 50 sites
+  Querying Wikidata (fetching up to 150 for filtering)...
+  Fetched: 36, Accepted: 2, Filtered: 34
+    Reasons: {'low_sitelinks': 34, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Col  Fetched: 750, Accepted: 250, Filtered: 500
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 1, 'low_claims': 0, 'limit_reached': 499}
+  [OK] Collected: 250 sites
+    - Coordinates: 250 (100.0%)
+    - Images: 244 (97.6%)
+    - Avg sitelinks: 8.4
+    - Saved: data\fetched\germany_monastery.json
+  Total progres  Fetched: 1000, Accepted: 229, Filtered: 771
+    Reasons: {'low_sitelinks': 771, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 229 sites
+    - Coordinates: 229 (100.0%)
+    - Images: 213 (93.0%)
+    - Avg sitelinks: 3.2
+    - Saved: data\fetched\germany_nature_reserve.json
+  Total progress: 2,585/15,000 (17.2%)
+[7/31] nature_park
+  Description: Nature parks
+  Target: 100 sites
+  Querying Wikidata (fetching up to 300 for filtering)...
+  Fetched: 0, Accepted: 0, Filtered: 0
+  [SKIP] No sites found
+[8/31] botanical_garden
+  Description: Botanical gardens
+  T  Fetched: 450, Accepted: 131, Filtered: 319
+    Reasons: {'low_sitelinks': 318, 'no_coordinates': 1, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 131 sites
+    - Coordinates: 131 (100.0%)
+    - Images: 128 (97.7%)
+    - Avg sitelinks: 4.4
+    - Saved: data\fetched\germany_synagogue.json
+  Total progress: 3,281/15,000 (21.9%)
+[17/31] mosque
+  Description: Mosques
+  Target: 100 sites
+  Querying Wikidata (fetching up to 300 for filtering)...
+  Fetched: 111, Accepted: 28, Filtered: 83
+    Reasons: {'low_sitelinks': 83, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 28 sites
+    - Coordinates: 28 (100.0%)
+    - Images: 28 (100.0%)
+    - Avg sitelinks: 9.7
+    - Saved: data\fetched\germany_mosque.json
+  Total progress: 3,309/15,000 (22.1%)
+[18/31] pilgrimage_church
+  Description: Pilgrimage churches
+  Target: 100 sites
+  Querying Wikidata (fetching up to 300 for filtering)...
+  Fetched: 17, Accepted: 17, Filtered: 0
+  [OK] Collected: 17 sites
+    - Coordinates: 17 (100.0%)
+    - Images: 17 (100.0%)
+    - Avg sitelinks: 31.5
+    - Saved: data\fetched\germany_pilgrimage_church.json
+  Total progress: 3,326/15,000 (22.2%)
+[19/31] fortress
+  Description: Fortresses
+  Target: 200 sites
+  Querying Wikidata (fetching up to 600 for filtering)...
+  Fetched: 600, Accepted: 8, Filtered: 592
+    Reasons: {'low_sitelinks': 591, 'no_coordinates': 1, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 8 sites
+    - Coordinates: 8 (100.0%)
+    - Images: 7 (87.5%)
+    - Avg sitelinks: 3.2
+    - Saved: data\fetched\germany_fortress.json
+  Total progress: 3,334/15,000 (22.2%)
+[20/31] castle_ruin
+  Description: Castle ruins
+  Target: 400 sites
+  Querying Wikidata (fetching up to 1000 for filtering)...
+  Fetched: 0, Accepted: 0, Filtered: 0
+  [SKIP] No sites found
+[21/31] monument
+  Description: Monuments
+  Target: 300 sites
+  Querying Wikidata (fetching up to 900 for filtering)...
+  Fetched: 900, Accepted: 156, Filtered: 744
+    Reasons: {'low_sitelinks': 741, 'no_coordinates': 3, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 156 sites
+    - Coordinates: 154 (98.7%)
+    - Images: 154 (98.7%)
+    - Avg sitelinks: 4.9
+    - Saved: data\fetched\germany_monument.json
+  Total progress: 3,490/15,000 (23.3%)
+[22/31] memorial
+  Description: War memorials and commemorative sites
+  Target: 200 sites
+  Querying Wikidata (fetching up to 600 for filtering)...
+  Fetched: 600, Accepted: 94, Filtered: 506
+    Reasons: {'low_sitelinks': 505, 'no_coordinates': 1, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 94 sites
+    - Coordinates: 94 (100.0%)
+    - Images: 89 (94.7%)
+    - Avg sitelinks: 6.6
+    - Saved: data\fetched\germany_memorial.json
+  Total progress: 3,584/15,000 (23.9%)
+[23/31] triumphal_arch
+  Description: Triumphal arches and gates
+  Target: 50 sites
+  Querying Wikidata (fetching up to 150 for filtering)...
+  Fetched: 150, Accepted: 50, Filtered: 100
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 100}
+  [OK] Collected: 50 sites
+    - Coordinates: 50 (100.0%)
+    - Images: 50 (100.0%)
+    - Avg sitelinks: 35.1
+    - Saved: data\fetched\germany_triumphal_arch.json
+  Total progress: 3,634/15,000 (24.2%)
+[24/31] bridge
+  Description: Historic and notable bridges
+  Target: 250 sites
+  Querying Wikidata (fetching up to 750 for filtering)...
+  Fetched: 750, Accepted: 9, Filtered: 741
+    Reasons: {'low_sitelinks': 741, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 9 sites
+    - Coordinates: 9 (100.0%)
+    - Images: 9 (100.0%)
+    - Avg sitelinks: 3.7
+    - Saved: data\fetched\germany_bridge.json
+  Total progress: 3,643/15,000 (24.3%)
+[25/31] tower
+  Description: Towers and observation points
+  Target: 200 sites
+  Querying Wikidata (fetching up to 600 for filtering)...
+  Fetched: 600, Accepted: 143, Filtered: 457
+    Reasons: {'low_sitelinks': 457, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 143 sites
+    - Coordinates: 143 (100.0%)
+    - Images: 135 (94.4%)
+    - Avg sitelinks: 4.5
+    - Saved: data\fetched\germany_tower.json
+  Total progress: 3,786/15,000 (25.2%)
+[26/31] city_gate
+  Description: Historic city gates
+  Target: 100 sites
+  Querying Wikidata (fetching up to 300 for filtering)...
+  Fetched: 300, Accepted: 55, Filtered: 245
+    Reasons: {'low_sitelinks': 244, 'no_coordinates': 1, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 55 sites
+    - Coordinates: 55 (100.0%)
+    - Images: 53 (96.4%)
+    - Avg sitelinks: 10.1
+    - Saved: data\fetched\germany_city_gate.json
+  Total progress: 3,841/15,000 (25.6%)
+[27/31] town_hall
+  Description: Town halls
+  Target: 500 sites
+  Querying Wikidata (fetching up to 1000 for filtering)...
+  Fetched: 225, Accepted: 4, Filtered: 221
+    Reasons: {'low_sitelinks': 221, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 4 sites
+    - Coordinates: 4 (100.0%)
+    - Images: 4 (100.0%)
+    - Avg sitelinks: 4.2
+    - Saved: data\fetched\germany_town_hall.json
+  Total progress: 3,845/15,000 (25.6%)
+[28/31] city_hall
+  Description: City halls
+  Target: 100 sites
+  Querying Wikidata (fetching up to 300 for filtering)...
+  Fetched: 0, Accepted: 0, Filtered: 0
+  [SKIP] No sites found
+[29/31] theater
+  Description: Theaters
+  Target: 200 sites
+  Querying Wikidata (fetching up to 600 for filtering)...
+  Fetched: 600, Accepted: 200, Filtered: 400
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 5, 'low_claims': 0, 'limit_reached': 395}
+  [OK] Collected: 200 sites
+    - Coordinates: 200 (100.0%)
+    - Images: 190 (95.0%)
+    - Avg sitelinks: 5.3
+    - Saved: data\fetched\germany_theater.json
+  Total progress: 4,045/15,000 (27.0%)
+[30/31] opera_house
+  Description: Opera houses
+  Target: 80 sites
+  Querying Wikidata (fetching up to 240 for filtering)...
+  Fetched: 0, Accepted: 0, Filtered: 0
+  [SKIP] No sites found
+[31/31] archaeological_site
+  Description: Archaeological sites
+  Target: 150 sites
+  Querying Wikidata (fetching up to 450 for filtering)...
+  Fetched: 450, Accepted: 150, Filtered: 300
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 2, 'low_claims': 0, 'limit_reached': 298}
+  [OK] Collected: 150 sites
+    - Coordinates: 150 (100.0%)
+    - Images: 140 (93.3%)
+    - Avg sitelinks: 8.0
+    - Saved: data\fetched\germany_archaeological_site.json
+  Total progress: 4,195/15,000 (28.0%)
+
+================================================================================
+PRIORITY: MEDIUM (24 categories)
+================================================================================
+
+[1/24] river
+  Description: Major rivers
+  Target: 100 sites
+  Querying Wikidata (fetching up to 300 for filtering)...
+  Fetche  Fetched: 750, Accepted: 9, Filtered: 741
+    Reasons: {'low_sitelinks': 741, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 9 sites
+    - Coordinates: 9 (100.0%)
+    - Images: 9 (100.0%)
+    - Avg sitelinks: 3.7
+    - Saved: data\fetched\germany_bridge.json
+  Total progress: 3,642/15,000 (24.3%)
+[25/31] tower
+  Description: Towers and observation points
+  Target: 200 sites
+  Querying Wikidata (fetching up to 600 for filtering)...
+  Fetched: 600, Accepted: 143, Filtered: 457
+    Reasons: {'low_sitelinks': 457, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 143 sites
+    - Coordinates: 143 (100.0%)
+    - Images: 135 (94.4%)
+    - Avg sitelinks: 4.5
+    - Saved: data\fetched\germany_tower.json
+  Total progress: 3,785/15,000 (25.2%)
+[26/31] city_gate
+  Description: Historic city gates
+  Target: 100 sites
+  Querying Wikidata (fetching up to 300 for filtering)...
+  Fetched: 300, Accepted: 55, Filtered: 245
+    Reasons: {'low_sitelinks': 244, 'no_coordinates': 1, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 55 sites
+    - Coordinates: 55 (100.0%)
+    - Images: 53 (96.4%)
+    - Avg sitelinks: 10.1
+    - Saved: data\fetched\germany_city_gate.json
+  Total progress: 3,840/15,000 (25.6%)
+[27/31] town_hall
+  Description: Town halls
+  Target: 500 sites
+  Querying Wikidata (fetching up to 1000 for filtering)...
+  Fetched: 225, Accepted: 4, Filtered: 221
+    Reasons: {'low_sitelinks': 221, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 4 sites
+    - Coordinates: 4 (100.0%)
+    - Images: 4 (100.0%)
+    - Avg sitelinks: 4.2
+    - Saved: data\fetched\germany_town_hall.json
+  Total progress: 3,844/15,000 (25.6%)
+[28/31] city_hall
+  Description: City halls
+  Target: 100 sites
+  Querying Wikidata (fetching up to 300 for filtering)...
+  Fetched: 0, Accepted: 0, Filtered: 0
+  [SKIP] No sites found
+[29/31] theater
+  Description: Theaters
+  Target: 200 sites
+  Querying Wikidata (fetching up to 600 for filtering)...
+  Fetched: 600, Accepted: 200, Filtered: 400
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 5, 'low_claims': 0, 'limit_reached': 395}
+  [OK] Collected: 200 sites
+    - Coordinates: 200 (100.0%)
+    - Images: 189 (94.5%)
+    - Avg sitelinks: 5.3
+    - Saved: data\fetched\germany_theater.json
+  Total progress: 4,044/15,000 (27.0%)
+[30/31] opera_house
+  Description: Opera houses
+  Target: 80 sites
+  Querying Wikidata (fetching up to 240 for filtering)...
+  Fetched: 0, Accepted: 0, Filtered: 0
+  [SKIP] No sites found
+[31/31] archaeological_site
+  Description: Archaeological sites
+  Target: 150 sites
+  Querying Wikidata (fetching up to 450 for filtering)...
+  Fetched: 450, Accepted: 150, Filtered: 300
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 2, 'low_claims': 0, 'limit_reached': 298}
+  [OK] Collected: 150 sites
+    - Coordinates: 150 (100.0%)
+    - Images: 139 (92.7%)
+    - Avg si  Fetched: 600, Accepted: 98, Filtered: 502
+    Reasons: {'low_sitelinks': 502, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 98 sites
+    - Coordinates: 98 (100.0%)
+    - Images: 98 (100.0%)
+    - Avg sitelinks: 3.5
+    - Saved: data\fetched\germany_manor_house.json
+  Total progress: 4,648/15,000 (31.0%)
+[9/24] statue
+  Description: Notable statues
+  Target: 150 sites
+  Querying Wikidata (fetching up to 450 for filtering)...
+  Fetched: 450, Accepted: 67, Filtered: 383
+    Reasons: {'low_sitelinks': 376, 'no_coordinates': 7, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 67 sites
+    - Coordinates: 65 (97.0%)
+    - Images: 67 (100.0%)
+    - Avg sitelinks: 4.5
+    - Saved: data\fetched\germany_statue.json
+  Total progress: 4,715/15,000 (31.4%)
+[10/24] fountain
+  Description: Historic fountains
+  Target: 100 sites
+  Querying Wikidata (fetching up to 300 for filtering)...
+  Fetched: 300, Accepted: 63, Filtered: 237
+    Reasons: {'low_sitelinks': 237, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 63 sites
+    - Coordinates: 63 (100.0%)
+    - Images: 63 (100.0%)
+    - Avg sitelinks: 4.4
+    - Saved: data\fetched\germany_fountain.json
+  Total progress: 4,778/15,000 (31.9%)
+[11/24] railway_station
+  Description: Historic railway stations
+  Target: 150 sites
+  Querying Wikidata (fetching up to 450 for filtering)...
+  Fetched: 450, Accepted: 150, Filtered: 300
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 300}
+  [OK] Collected: 150 sites
+    - Coordinates: 150 (100.0%)
+    - Images: 150 (100.0%)
+    - Avg sitelinks: 9.7
+    - Saved: data\fetched\germany_railway_station.json
+  Total progress: 4,928/15,000 (32.9%)
+[12/24] lighthouse
+  Description: Lighthouses
+  Target: 50 sites
+  Querying Wikidata (fetching up to 150 for filtering)...
+  Fetched: 150, Accepted: 50, Filtered: 100
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 1, 'low_claims': 0, 'limit_reached': 99}
+  [OK] Collected: 50 sites
+    - Coordinates: 50 (100.0%)
+    - Images: 50 (100.0%)
+    - Avg sitelinks: 5.4
+    - Saved: data\fetched\germany_lighthouse.json
+  Total progress: 4,978/15,000 (33.2%)
+[13/24] windmill
+  Description: Historic windmills
+  Target: 100 sites
+  Querying Wikidata (fetching up to 300 for filtering)...
+  Fetched: 300, Accepted: 24, Filtered: 276
+    Reasons: {'low_sitelinks': 275, 'no_coordinates': 1, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 24 sites
+    - Coordinates: 24 (100.0%)
+    - Images: 24 (100.0%)
+    - Avg sitelinks: 3.4
+    - Saved: data\fetched\germany_windmill.json
+  Total progress: 5,002/15,000 (33.3%)
+[14/24] university
+  Description: Historic university buildings
+  Target: 150 sites
+  Querying Wikidata (fetching up to 450 for filtering)...
+  Fetched: 46, Accepted: 17, Filtered: 29
+    Reasons: {'low_sitelinks': 23, 'no_coordinates': 6, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 17 sites
+    - Coordinates: 17 (100.0%)
+    - Images: 11 (64.7%)
+    - Avg sitelinks: 9.3
+    - Saved: data\fetched\germany_university.json
+  Total progress: 5,019/15,000 (33.5%)
+[15/24] market_square
+  Description: Market squares
+  Target: 100 sites
+  Querying Wikidata (fetching up to 300 for filtering)...
+  Fetched: 300, Accepted: 100, Filtered: 200
+    Reasons: {'low_sitelinks': 0, 'no_coordinates':   Fetched: 600, Accepted: 98, Filtered: 502
+    Reasons: {'low_sitelinks': 502, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 98 sites
+    - Coordinates: 98 (100.0%)
+    - Images: 98 (100.0%)
+    - Avg sitelinks: 3.5
+    - Saved: data\fetched\germany_manor_house.json
+  Total progress: 4,647/15,000 (31.0%)
+[9/24] statue
+  Description: Notable statues
+  Target: 150 sites
+  Querying Wikidata (fetching up to 450 for filtering)...
+  Fetched: 450, Accepted: 67, Filtered: 383
+    Reasons: {'low_sitelinks': 376, 'no_coordinates': 7, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 67 sites
+    - Coordinates: 65 (97.0%)
+    - Images: 67 (100.0%)
+    - Avg sitelinks: 4.5
+    - Saved: data\fetched\germany_statue.json
+  Total progress: 4,714/15,000 (31.4%)
+[10/24] fountain
+  Description: Historic fountains
+  Target: 100 sites
+  Querying Wikidata (fetching up to 300 for filtering)...
+  Fetched: 300, Accepted: 63, Filtered: 237
+    Reasons: {'low_sitelinks': 237, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 63 sites
+    - Coordinates: 63 (100.0%)
+    - Images: 63 (100.0%)
+    - Avg sitelinks: 4.4
+    - Saved: data\fetched\germany_fountain.json
+  Total progress: 4,777/15,000 (31.8%)
+[11/24] railway_station
+  Description: Historic railway stations
+  Target: 150 sites
+  Querying Wikidata (fetching up to 450 for filtering)...
+  Fetched: 450, Accepted: 150, Filtered: 300
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 300}
+  [OK] Collected: 150 sites
+    - Coordinates: 150 (100.0%)
+    - Images: 150 (100.0%)
+    - Avg sitelinks: 9.7
+    - Saved: data\fetched\germany_railway_station.json
+  Total progress: 4,927/15,000 (32.8%)
+[12/24] lighthouse
+  Description: Lighthouses
+  Target: 50 sites
+  Querying Wikidata (fetching up to 150 for filtering)...
+  Fetched: 150, Accepted: 50, Filtered: 100
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 1, 'low_claims': 0, 'limit_reached': 99}
+  [OK] Collected: 50 sites
+   Fetched: 660, Accepted: 67, Filtered: 593
+    Reasons: {'low_sitelinks': 590, 'no_coordinates': 3, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 67 sites
+    - Coordinates: 67 (100.0%)
+    - Images: 56 (83.6%)
+    - Avg sitelinks: 5.0
+    - Saved: data\fetched\germany_library.json
+  Total   Fetched: 300, Accepted: 24, Filtered: 276
+    Reasons: {'low_sitelinks': 275, 'no_coordinates': 1, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 24 sites
+    - Coordinates: 24 (100.0%)
+    - Images: 24 (100.0%)
+    - Avg sitelinks: 3.4
+    - Saved: data\fetched\germany_windmill.json
+  Total progress: 5,001/15,000 (33.3%)
+[14/24] university
+  Descripti  Fetched: 300, Accepted: 79, Filtered: 221
+    Reasons: {'low_sitelinks': 220, 'no_coordinates': 1, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 79 sites
+    - Coordinates: 79 (100.0%)
+    - Images: 58 (73.4%)
+    - Avg sitelinks: 3.6
+    - Saved: data\fetched\germany_mine.json
+  Total progress: 5,481/15,000 (36.5%)
+[23/24] roman_villa
+  Description: Roman villas and settlements
+  Target: 30 sites
+  Querying Wikidata (fetching up to 90 for filtering)...
+  Fetched: 90, Accepted: 10, Filtered: 80
+    Reasons: {'low_sitelinks': 80, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 10 sites
+    - Coordinates: 10 (100.0%)
+    - Images: 10 (100.0%)
+    - Avg sitelinks: 3.4
+    - Saved: data\fetched\germany_roman_villa.json
+  Total progress: 5,491/15,000 (36.6%)
+[24/24] prehistoric_site
+  Description: Prehistoric sites
+  Target: 20 sites
+  Querying Wikidata (fetching up to 60 for filtering)...
+  Fetched: 0, Accepted: 0, Filtered: 0
+  [SKIP] No sites found
+
+==================================  Fetched: 600, Accepted: 200, Filtered: 400
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 400}
+  [OK] Collected: 200 sites
+    - Coordinates: 200 (100.0%)
+    - Images: 190 (95.0%)
+    - Avg sitelinks: 7.2
+    - Saved: data\fetched\germany_park.json
+  Total progress: 5,318/15,000 (35.5%)
+[17/24] garden
+  Description: Historic gardens
+  Target: 150 sites
+  Querying Wikidata (fetching up to 450 for filtering)...
+  Fetched: 361, Accepted: 7, Filtered: 354
+    Reasons: {'low_sitelinks': 354, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 7 sites
+    - Coordinates: 7 (100.0%)
+    - Images: 7 (100.0%)
+    - Avg sitelinks: 4.4
+    - Saved: data\fetched\germany_garden.json
+  Total progress: 5,325/15,000 (35.5%)
+[18/24] concert_hall
+  Description: Concert halls
+  Target: 100 sites
+  Querying Wikidata (fetching up to 300 for filtering)...
+  Fetched: 204, Accepted: 0, Filtered: 204
+    Reasons: {'low_sitelinks': 204, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [SKIP] No sites found
+[19/24] cultural_center
+  Description: Cultural centers
+  Target: 150 sites
+  Querying Wikidata (fetching up to 450 for filtering)...
+  Fetched: 69, Accepted: 9, Filtered: 60
+    Reasons: {'low_sitelinks': 57, 'no_coordinates': 3, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 9 sites
+    - Coordinates: 9 (100.0%)
+    - Images: 9 (100.0%)
+    - Avg sitelinks: 12.1
+    - Saved: data\fetched\germany_cultural_center.json
+  Total progress: 5,334/15,000 (35.6%)
+[20/24] library
+  Description: Libraries
+  Target: 220 sites
+  Querying Wikidata (fetching up to 660 for filtering)...
+  Fetched: 660, Accepted: 67, Filtered: 593
+    Reasons: {'low_sitelinks': 590, 'no_coordinates': 3, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 67 sites
+    - Coordinates: 67 (100.0%)
+    - Images: 56 (83.6%)
+    - Avg sitelinks: 5.0
+    - Saved: data\fetched\germany_library.json
+  Total progress: 5,401/15,000 (36.0%)
+[21/24] industrial_building
+  Description: Industrial heritage sites
+  Target: 150 sites
+  Querying Wikidata (fetching up to 450 for filtering)...
+  Fetched: 0, Accepted: 0, Filtered: 0
+  [SKIP] No sites found
+[22/24] mine
+  Description: Historic mines
+  Target: 100 sites
+  Querying Wikidata (fetching up to 300 for filtering)...
+  Fetched: 300, Accepted: 79, Filtered: 221
+    Reasons: {'low_sitelinks': 220, 'no_coordinates': 1, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 79 sites
+    - Coordinates: 79 (100.0%)
+    - Images: 58 (73.4%)
+    - Avg sitelinks: 3.6
+    - Saved: data\fetched\germany_mine.json
+  Total progress: 5,480/15,000 (36.5%)
+[23/24] roman_villa
+  Description: Roman villas and settlements
+  Target: 30 sites
+  Querying Wikidata (fetching up to 90 for filtering)...
+  Fetched: 90, Accepted: 10, Filtered: 80
+    Reasons: {'low_sitelinks': 80, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 10 sites
+    - Coordinates: 10 (100.0%)
+    - Images: 10 (100.0%)
+    - Avg sitelinks: 3.4
+    - Saved: data\fetched\germany_roman_villa.json
+  Total progress: 5,490/15,000 (36.6%)
+[24/24] prehistoric_site
+  Description: Prehistoric sites
+  Target: 20 sites
+  Querying Wikidata (fetching up to 60 for filtering)...
+  Fetched: 0, Accepted: 0, Filtered: 0
+  [SKIP] No sites found
+
+================================================================================
+PRIORITY: LOW (16 categories)
+================================================================================
+
+[1/16] aqueduct
+  Description: Aqueducts
+  Target: 30 sites
+  Querying Wikidata (fetching up to 90 for filtering)...
+  Fetched: 14, Accepted: 1, Filtered: 13
+    Reasons: {'low_sitelinks': 13, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 1 sites
+    - Coordinates: 1 (100.0%)
+    - Images: 1 (100.0%)
+    - Avg sitelinks: 3.0
+    - Saved: data\fetched\germany_aqueduct.json
+  Total progress: 5,491/15,000 (36.6%)
+[2/16] dam
+  Description: Dams and reservoirs
+  Target: 40 sites
+  Querying Wikidata (fetching up to 120 for filtering)...
+  Fetched: 103, Accepted: 40, Filtered: 63
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 63}
+  [OK] Collected: 40 sites
+    - Coordinates: 40 (100.0%)
+    - Images: 39 (97.5%)
+    - Avg sitelinks: 5.1
+    - Saved: data\fetched\germany_dam.json
+  Total progress: 5,531/15,000 (36.9%)
+[3/16] courthouse
+  Description: Courthouses
+  Target: 50 sites
+  Querying Wikidata (fetching up to 150 for filtering)...
+  Fetched: 150, Accepted: 18, Filtered: 132
+    Reasons: {'low_sitelinks': 132, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 18 sites
+    - Coordinates: 18 (100.0%)
+    - Images: 18 (100.0%)
+    - Avg sitelinks: 5.2
+    - Saved: data\fetched\germany_courthouse.json
+  Total progress: 5,549/15,000 (37.0%)
+[4/16] school_building
+  Description: Historic school buildings
+  Target: 100 sites
+  Querying Wikidata (fetching up to 300 for filtering)...
+  Fetched: 300, Accepted: 36, Filtered: 264
+    Reasons: {'low_sitelinks': 264, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 36 sites
+    - Coordinates: 36 (100.0%)
+    - Images: 32 (88.9%)
+    - Avg sitelinks: 3.4
+    - Saved: data\fetched\germany_school_building.json
+  Total progress: 5,585/15,000 (37.2%)
+[5/16] sculpture_garden
+  Description: Sculpture gardens
+  Target: 50 sites
+  Querying Wikidata (fetching up to 150 for filtering)...
+  Fetched: 0, Accepted: 0, Filtered: 0
+  [SKIP] No sites found
+[6/16] rose_garden
+  Description: Rose gardens
+  Target: 30 sites
+  Querying Wikidata (fetching up to 90 for filtering)...
+  Fetched: 0, Accepted: 0, Filtered: 0
+  [SKIP] No sites found
+[7/16] english_garden
+  Description: English landscape gardens
+  Target: 30 sites
+  Querying Wikidata (fetching up to 90 for filtering)...
+  Fetched: 0, Accepted: 0, Filtered: 0
+  [SKIP] No sites found
+[8/16] cinema
+  Description: Historic cinemas
+  Target: 50 sites
+  Querying Wikidata (fetching up to 150 for filtering)...
+  Fetched: 150, Accepted: 50, Filtered: 100
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 100}
+  [OK] Collected: 50 sites
+    - Coordinates: 50 (100.0%)
+    - Images: 49 (98.0%)
+    - Avg sitelinks: 5.9
+    - Saved: data\fetched\germany_cinema.json
+  Total progress: 5,635/15,000 (37.6%)
+[9/16] factory
+  Description: Historic factories
+  Target: 80 sites
+  Querying Wikidata (fetching up to 240 for filtering)...
+  Fetched: 240, Accepted: 36, Filtered: 204
+    Reasons: {'low_sitelinks': 197, 'no_coordinates': 7, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 36 sites
+    - Coordinates: 36 (100.0%)
+    - Images: 29 (80.6%)
+    - Avg sitelinks: 7.5
+    - Saved: data\fetched\germany_factory.json
+  Total progress: 5,671/15,000 (37.8%)
+[10/16] brewery
+  Description: Historic breweries
+  Target: 70 sites
+  Querying Wikidata (fetching up to 210 for filtering)...
+  Fetched: 210, Accepted: 70, Filtered: 140
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 78, 'low_claims': 0, 'limit_reached': 62}
+  [OK] Collected: 70 sites
+    - Coordinates: 70 (100.0%)
+    - Images: 58 (82.9%)
+    - Avg sitelinks: 6.2
+    - Saved: data\fetched\germany_brewery.json
+  Total progress: 5,741/15,000 (38.3%)
+[11/16] cemetery
+  Description: Historic cemeteries
+  Target: 150 sites
+  Querying Wikidata (fetching up to 450 for filtering)...
+  Fetched: 450, Accepted: 150, Filtered: 300
+    Reasons: {'low_sitelinks': 0, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 300}
+  [OK] Collected: 150 sites
+    - Coordinates: 150 (100.0%)
+    - Images: 143 (95.3%)
+    - Avg sitelinks: 5.1
+    - Saved: data\fetched\germany_cemetery.json
+  Total progress: 5,891/15,000 (39.3%)
+[12/16] mausoleum
+  Description: Mausoleums
+  Target: 30 sites
+  Querying Wikidata (fetching up to 90 for filtering)...
+  Fetched: 90, Accepted: 11, Filtered: 79
+    Reasons: {'low_sitelinks': 79, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 11 sites
+    - Coordinates: 11 (100.0%)
+    - Images: 10 (90.9%)
+    - Avg sitelinks: 4.7
+    - Saved: data\fetched\germany_mausoleum.json
+  Total progress: 5,902/15,000 (39.3%)
+[13/16] tomb
+  Description: Historic tombs
+  Target: 20 sites
+  Querying Wikidata (fetching up to 60 for filtering)...
+  Fetched: 51, Accepted: 3, Filtered: 48
+    Reasons: {'low_sitelinks': 47, 'no_coordinates': 1, 'low_claims': 0, 'limit_reached': 0}
+  [OK] Collected: 3 sites
+    - Coordinates: 3 (100.0%)
+    - Images: 3 (100.0%)
+    - Avg sitelinks: 3.7
+    - Saved: data\fetched\germany_tomb.json
+  Total progress: 5,905/15,000 (39.4%)
+[14/16] market_hall
+  Description: Market halls
+  Target: 80 sites
+  Querying Wikidata (fetching up to 240 for filtering)...
+  Fetched: 0, Accepted: 0, Filtered: 0
+  [SKIP] No sites found
+[15/16] shopping_arcade
+  Description: Historic shopping arcades
+  Target: 50 sites
+  Querying Wikidata (fetching up to 150 for filtering)...
+  Fetched: 0, Accepted: 0, Filtered: 0
+  [SKIP] No sites found
+[16/16] covered_market
+  Description: Covered markets
+  Target: 20 sites
+  Querying Wikidata (fetching up to 60 for filtering)...
+  Fetched: 1, Accepted: 0, Filtered: 1
+    Reasons: {'low_sitelinks': 1, 'no_coordinates': 0, 'low_claims': 0, 'limit_reached': 0}
+  [SKIP] No sites found
+
+================================================================================
+FETCH COMPLETE
+================================================================================
+Total sites collected: 5,905
+Total categories: 62
+
+Category breakdown:
+  museum                        :  807 sites
+  castle                        :  800 sites
+  monastery                     :  250 sites
+  nature_reserve                :  229 sites
+  lake                          :  200 sites
+  theater                       :  200 sites
+  park                          :  200 sites
+  art_museum                    :  194 sites
+  monument                      :  156 sites
+  mountain                      :  150 sites
+  archaeological_site           :  150 sites
+  railway_station               :  150 sites
+  cemetery                      :  150 sites
+  tower                         :  143 sites
+  synagogue                     :  131 sites
+  river                         :  100 sites
+  market_square                 :  100 sites
+  manor_house                   :   98 sites
+  history_museum                :   96 sites
+  memorial                      :   94 sites
+  ... and 42 more categories
+========
+Total sites collected: 5,906
+Total categories: 62
+
+Category breakdown:
+  museum                        :  808 sites
+  castle                        :  800 sites
+  monastery                     :  250 sites
+  nature_reserve                :  229 sites
+  lake                          :  200 sites
+  theater                       :  200 sites
+  park                          :  200 sites
+  art_museum                    :  194 sites
+  monument                      :  156 sites
+  mountain                      :  150 sites
+  archaeological_site           :  150 sites
+  railway_station               :  150 sites
+  cemetery                      :  150 sites
+  tower                         :  143 sites
+  synagogue                     :  131 sites
+  river                         :  100 sites
+  market_square                 :  100 sites
+  manor_house                   :   98 sites
+  history_museum                :   96 sites
+  memorial                      :   94 sites
+  ... and 42 more categories

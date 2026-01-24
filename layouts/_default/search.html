@@ -1,0 +1,165 @@
+{{ define "main" }}
+
+<div class="bg-white min-h-screen" x-data="{
+  searchQuery: new URLSearchParams(window.location.search).get('q') || '',
+  results: [],
+  searching: false,
+
+  init() {
+    this.$nextTick(() => {
+      this.$refs.searchInput.focus();
+      if (this.searchQuery.length >= 2) {
+        this.performSearch();
+      }
+    });
+  },
+
+  performSearch() {
+    if (this.searchQuery.length < 2) {
+      this.results = [];
+      return;
+    }
+
+    this.searching = true;
+    const query = this.searchQuery.toLowerCase();
+    const allSites = [{{ range .Site.RegularPages.ByTitle }}{{ if eq .Section "sites" }}{
+      title: {{ .Params.site_name | jsonify }},
+      url: {{ .Permalink | jsonify }},
+      description: {{ .Description | jsonify }},
+      region: {{ .Params.region | jsonify }},
+      heritage_type: {{ .Params.heritage_type | jsonify }},
+      content: {{ .Plain | jsonify }},
+      image: {{ if .Params.images }}{{ index .Params.images 0 | relURL | jsonify }}{{ else }}''{{ end }},
+      unesco: {{ if in .Params.tags "unesco" }}true{{ else }}false{{ end }}
+    },{{ end }}{{ end }}].filter(s => s.title);
+
+    this.results = allSites.filter(site => {
+      return site.title.toLowerCase().includes(query) ||
+             site.description.toLowerCase().includes(query) ||
+             site.region.toLowerCase().includes(query) ||
+             site.heritage_type.toLowerCase().includes(query) ||
+             site.content.toLowerCase().includes(query);
+    }).slice(0, 20);
+
+    this.searching = false;
+  }
+}">
+
+  <!-- Hero Section -->
+  <div class="bg-gradient-to-br from-forest-700 to-forest-900 text-white py-16 md:py-20">
+    <div class="container-custom">
+      <div class="max-w-4xl mx-auto text-center">
+        <h1 class="text-3xl md:text-5xl font-serif font-bold text-white mb-4">
+          Search Heritage Sites
+        </h1>
+        <p class="text-lg text-sage-200 mb-8">
+          Explore Germany's UNESCO World Heritage Sites, monuments, castles, and cathedrals
+        </p>
+
+        <!-- Search Input -->
+        <div class="relative">
+          <input
+            type="text"
+            x-model="searchQuery"
+            @input.debounce.300ms="performSearch()"
+            x-ref="searchInput"
+            placeholder="Search heritage sites..."
+            class="w-full px-6 py-4 text-lg text-charcoal bg-white rounded-xl border-2 border-sand focus:border-sage-300 focus:ring-4 focus:ring-sage-200 shadow-xl"
+            @keydown.escape="searchQuery = ''"
+          >
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Results Section -->
+  <div class="container-custom py-12">
+
+    <!-- Results Count -->
+    <div x-show="searchQuery.length >= 2" class="mb-8">
+      <p class="text-lg text-charcoal">
+        <span x-show="!searching">
+          Found <strong x-text="results.length"></strong> result<span x-show="results.length !== 1">s</span>
+          <span x-show="searchQuery"> for "<span x-text="searchQuery"></span>"</span>
+        </span>
+        <span x-show="searching" class="text-stone">Searching...</span>
+      </p>
+    </div>
+
+    <!-- No Query Message -->
+    <div x-show="searchQuery.length < 2" class="text-center py-16">
+      <svg class="w-24 h-24 mx-auto text-sand mb-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+      </svg>
+      <h2 class="text-2xl font-serif font-bold text-charcoal mb-3">Start Your Search</h2>
+      <p class="text-stone text-lg">Type at least 2 characters in the search box above to find heritage sites</p>
+    </div>
+
+    <!-- No Results Message -->
+    <div x-show="searchQuery.length >= 2 && results.length === 0 && !searching" class="text-center py-16">
+      <svg class="w-24 h-24 mx-auto text-sand mb-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+      </svg>
+      <h2 class="text-2xl font-serif font-bold text-charcoal mb-3">No Results Found</h2>
+      <p class="text-stone text-lg mb-6">Try different keywords or browse our sites by region</p>
+      <div class="flex justify-center gap-4">
+        <a href="/sites/" class="btn btn-primary">Browse All Sites</a>
+        <a href="/regions/" class="btn btn-outline">View by Region</a>
+      </div>
+    </div>
+
+    <!-- Results Grid -->
+    <div x-show="results.length > 0" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <template x-for="site in results" :key="site.url">
+        <a :href="site.url" class="card group block">
+          <!-- Image -->
+          <div class="relative overflow-hidden bg-sand h-48">
+            <template x-if="site.image">
+              <img
+                :src="site.image"
+                :alt="site.title + ' - Heritage site in ' + site.region"
+                class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                loading="lazy"
+              >
+            </template>
+            <template x-if="!site.image">
+              <div class="w-full h-full flex items-center justify-center">
+                <svg class="w-16 h-16 text-stone/40" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+                </svg>
+              </div>
+            </template>
+            <div x-show="site.unesco" class="absolute top-3 right-3">
+              <span class="badge badge-unesco shadow-lg">UNESCO</span>
+            </div>
+          </div>
+
+          <!-- Card Body -->
+          <div class="card-body">
+            <h3 class="card-title group-hover:text-forest-600 transition-colors" x-text="site.title"></h3>
+
+            <div class="flex items-center text-sm text-stone mb-3">
+              <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+              </svg>
+              <span x-text="site.region"></span>
+            </div>
+
+            <p class="card-text line-clamp-3" x-text="site.description"></p>
+
+            <div class="mt-4 pt-4 border-t border-sand flex items-center justify-between">
+              <span class="text-xs text-stone uppercase tracking-wide font-medium" x-text="site.heritage_type"></span>
+              <span class="text-forest-600 hover:text-forest-700 font-medium text-sm">
+                Read more →
+              </span>
+            </div>
+          </div>
+        </a>
+      </template>
+    </div>
+
+  </div>
+
+</div>
+
+{{ end }}

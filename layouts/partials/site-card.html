@@ -1,0 +1,69 @@
+{{ $imgURL := "" }}
+{{ with .Params.images }}
+  {{ $imgURL = partial "image-url.html" (dict "src" (index . 0) "site" $.Site) }}
+{{ end }}
+<a href="{{ .Permalink }}" class="card group flex flex-col" style="height: 530px; max-height: 530px;" aria-label="View details about {{ .Params.site_name }}, {{ .Params.heritage_type }} in {{ .Params.region }}">
+  {{ with .Params.images }}
+    <div class="relative bg-sand h-64 overflow-hidden flex-shrink-0">
+      <img
+        srcset="{{ $imgURL }} 1920w,
+                {{ $imgURL }} 1024w,
+                {{ $imgURL }} 640w,
+                {{ $imgURL }} 320w"
+        sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 400px"
+        src="{{ $imgURL }}"
+        alt="{{ $.Params.site_name }} - {{ $.Params.heritage_type }} in {{ $.Params.region }}, Germany"
+        class="w-full h-64 object-cover object-center"
+        loading="lazy"
+        decoding="async"
+        width="400"
+        height="225"
+        onerror="this.onerror=null; this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22400%22 height=%22225%22%3E%3Crect fill=%22%23E8D5B7%22 width=%22400%22 height=%22225%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial, sans-serif%22 font-size=%2218%22 fill=%22%238B7E74%22%3E{{ $.Params.site_name | truncate 30 }}%3C/text%3E%3C/svg%3E';"
+      >
+      {{ if $.Params.unesco }}
+        <div class="absolute top-3 right-3 z-10">
+          <span class="badge badge-unesco shadow-lg">UNESCO</span>
+        </div>
+      {{ end }}
+
+      <!-- Add to Trip Button (Overlay) -->
+      <div class="absolute {{ if $.Params.unesco }}top-14{{ else }}top-3{{ end }} right-3 z-20" onclick="event.preventDefault(); event.stopPropagation();">
+        {{ partial "add-to-trip-button.html" (dict "site" $ "variant" "small" "class" "shadow-xl") }}
+      </div>
+    </div>
+  {{ else }}
+    <!-- Fallback if no image -->
+    <div class="bg-gradient-to-br from-sand to-stone/20 h-64 flex items-center justify-center flex-shrink-0">
+      <svg class="w-16 h-16 text-stone/40" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+      </svg>
+    </div>
+  {{ end }}
+
+  <div class="card-body flex-grow flex flex-col">
+    <h3 class="card-title group-hover:text-forest-600 transition-colors">
+      {{ .Params.site_name }}
+    </h3>
+
+    <p class="text-sm text-stone mb-3">📍 {{ .Params.region }}</p>
+
+    <p class="card-text line-clamp-3 overflow-hidden mb-4">
+      {{ with .Description }}
+        {{ . }}
+      {{ else }}
+        {{ .Summary | replaceRE "^#+\\s+.+?\\n+" "" | replaceRE "##\\s*\\w+" "" | replaceRE "\\*\\*" "" | replaceRE "#+" "" | plainify | truncate 150 }}
+      {{ end }}
+    </p>
+
+    <div class="flex-grow"></div>
+
+    <div class="pt-4 border-t border-sand flex items-center justify-between flex-shrink-0">
+      <span class="text-xs text-stone uppercase tracking-wide font-medium">
+        {{ .Params.heritage_type }}
+      </span>
+      <span class="text-forest-600 hover:text-forest-700 font-medium text-sm">
+        Read more →
+      </span>
+    </div>
+  </div>
+</a>

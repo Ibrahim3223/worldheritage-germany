@@ -1,0 +1,135 @@
+{{/*
+  Add to Trip Button Partial
+
+  Usage:
+  {{ partial "add-to-trip-button.html" (dict "site" . "context" .) }}
+
+  Parameters:
+  - site: The site object with .Title, .Params, etc.
+  - variant: "primary" (default), "secondary", "small"
+  - class: Additional CSS classes
+*/}}
+
+{{ $site := .site }}
+{{ $variant := .variant | default "primary" }}
+{{ $class := .class | default "" }}
+
+{{/* Build site data object for JavaScript */}}
+{{ $siteData := dict
+  "id" (printf "%s-%s" $site.Type $site.File.BaseFileName)
+  "title" $site.Title
+  "slug" $site.File.BaseFileName
+  "image" ($site.Params.featured_image | default "")
+  "location" ($site.Params.location | default "Germany")
+  "coordinates" (dict
+    "lat" ($site.Params.latitude | default 50.0)
+    "lng" ($site.Params.longitude | default 10.0)
+  )
+  "visitDuration" ($site.Params.visit_duration | default 2)
+  "entryFee" ($site.Params.entry_fee | default 0)
+}}
+
+{{ $siteDataJSON := $siteData | jsonify }}
+
+<div>
+  {{ if eq $variant "primary" }}
+    {{/* Primary Button - Pure Vanilla JS (no Alpine.js) */}}
+    <button
+      type="button"
+      id="addToTripBtn-{{ $site.File.BaseFileName }}"
+      data-site='{{ $siteDataJSON }}'
+      onclick="window.addSiteToTrip(this)"
+      class="group relative inline-flex items-center justify-center gap-3 px-6 py-3 rounded-xl font-semibold transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105 bg-forest-600 hover:bg-forest-700 text-white {{ $class }}"
+    >
+      {{/* Icon */}}
+      <svg
+        class="w-5 h-5 transition-transform duration-300"
+        fill="none"
+        stroke="currentColor"
+        viewBox="0 0 24 24"
+      >
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"/>
+      </svg>
+
+      {{/* Text */}}
+      <span>Add to Trip</span>
+    </button>
+
+    <script>
+      // Global function to add site (vanilla JS)
+      if (!window.addSiteToTrip) {
+        window.addSiteToTrip = function(btn) {
+          if (btn.disabled) return;
+          btn.disabled = true;
+
+          const siteData = JSON.parse(btn.getAttribute('data-site'));
+          console.log('[VANILLA] Adding site:', siteData.id);
+
+          if (window.Alpine && window.Alpine.store) {
+            const store = window.Alpine.store('tripPlanner');
+            if (store) {
+              if (store.hasSite(siteData.id)) {
+                console.log('[VANILLA] Site exists, opening sidebar');
+                store.open();
+              } else {
+                console.log('[VANILLA] Calling addSite');
+                store.addSite(siteData);
+              }
+            }
+          } else {
+            alert('Trip Planner not loaded');
+          }
+
+          setTimeout(() => btn.disabled = false, 1000);
+        };
+      }
+    </script>
+
+  {{ else if eq $variant "secondary" }}
+    {{/* Secondary Button - Outlined, less prominent */}}
+    <button
+      @click="$store.tripPlanner.addSite(siteData)"
+      :disabled="isInTrip()"
+      class="group inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl font-semibold border-2 transition-all duration-300 {{ $class }}"
+      :class="{
+        'border-forest-600 text-forest-600 hover:bg-forest-600 hover:text-white': !isInTrip(),
+        'border-green-300 bg-green-50 text-green-700 cursor-not-allowed': isInTrip()
+      }"
+    >
+      <svg
+        class="w-5 h-5 transition-transform"
+        :class="{ 'rotate-45': isInTrip() }"
+        fill="none"
+        stroke="currentColor"
+        viewBox="0 0 24 24"
+      >
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"/>
+      </svg>
+      <span x-text="isInTrip() ? 'Added' : 'Add to Trip'"></span>
+    </button>
+
+  {{ else if eq $variant "small" }}
+    {{/* Small Button - Icon only or compact */}}
+    <button
+      @click="$store.tripPlanner.addSite(siteData)"
+      :disabled="isInTrip()"
+      class="group p-2 rounded-lg transition-all duration-300 {{ $class }}"
+      :class="{
+        'bg-forest-600 hover:bg-forest-700 text-white hover:scale-110': !isInTrip(),
+        'bg-green-100 text-green-700 cursor-not-allowed': isInTrip()
+      }"
+      :title="isInTrip() ? 'In your trip' : 'Add to trip'"
+    >
+      <svg
+        class="w-5 h-5 transition-transform"
+        :class="{ 'rotate-45': isInTrip() }"
+        fill="none"
+        stroke="currentColor"
+        viewBox="0 0 24 24"
+      >
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M12 4v16m8-8H4"/>
+      </svg>
+    </button>
+
+  {{ end }}
+</div>

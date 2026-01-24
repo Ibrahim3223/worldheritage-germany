@@ -1,0 +1,68 @@
+sophia-weber:
+  name: "Dr. Sophia Weber"
+  role: "Cultural Heritage Specialist"
+  bio: "PhD in Art History with 15+ years of experience documenting and preserving European heritage sites. Sophia has contributed to UNESCO World Heritage nominations and specializes in Gothic and Romanesque architecture."
+  bio_short: "Cultural heritage specialist with 15+ years documenting European sites"
+  expertise:
+    - UNESCO World Heritage Sites
+    - Conservation & Preservation
+    - Architectural History
+    - Gothic & Romanesque Architecture
+  photo: "/images/authors/sophia-weber.jpg"
+  email: ""
+  social:
+    twitter: ""
+    linkedin: ""
+    website: ""
+
+max-fischer:
+  name: "Max Fischer"
+  role: "Travel Journalist"
+  bio: "Award-winning travel writer with a passion for uncovering hidden gems across Germany. Having explored over 500 heritage sites, Max brings practical insights and local perspectives to his writing."
+  bio_short: "Award-winning travel writer, explored 500+ German heritage sites"
+  expertise:
+    - Travel Planning
+    - Hidden Gems & Local Culture
+    - Practical Travel Tips
+    - Regional Tourism
+  photo: "/images/authors/max-fischer.jpg"
+  email: ""
+  social:
+    twitter: ""
+    linkedin: ""
+    website: ""
+
+anna-hoffmann:
+  name: "Anna Hoffmann"
+  role: "Heritage Photographer"
+  bio: "Professional photographer specializing in architectural and cultural heritage. Anna's work has been featured in National Geographic and leading travel publications. She teaches workshops on heritage photography techniques."
+  bio_short: "Professional photographer specializing in architectural heritage"
+  expertise:
+    - Heritage Photography
+    - Visual Storytelling
+    - Photography Techniques
+    - Composition & Lighting
+  photo: "/images/authors/anna-hoffmann.jpg"
+  email: ""
+  social:
+    twitter: ""
+    linkedin: ""
+    instagram: ""
+    website: ""
+
+martin-schmidt:
+  name: "Prof. Martin Schmidt"
+  role: "German History Professor"
+  bio: "Professor of Medieval History at Heidelberg University with expertise in German castles, cathedrals, and monastic architecture. Martin has published extensively on medieval European heritage and leads academic tours."
+  bio_short: "Medieval history professor specializing in German castles and cathedrals"
+  expertise:
+    - Medieval History
+    - Castle Architecture
+    - Religious Buildings
+    - Historical Context
+  photo: "/images/authors/martin-schmidt.jpg"
+  email: ""
+  social:
+    twitter: ""
+    linkedin: ""
+    website: ""

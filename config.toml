@@ -1,0 +1,122 @@
+baseURL = "https://de.worldheritage.guide/"
+languageCode = "en-us"
+title = "WorldHeritage.guide - Germany | Comprehensive Heritage Travel Guide"
+
+# Ignore files (logs, temp files)
+ignoreFiles = ["\\.log$", "logs/", "\\.bak$", "\\.tmp$"]
+
+# Content
+contentDir = "content"
+dataDir = "data"
+layoutDir = "layouts"
+staticDir = "static"
+publishDir = "public"
+
+# Build
+[build]
+writeStats = true
+
+# Pagination
+paginate = 12
+
+# Permalinks
+[permalinks]
+  posts = "/:section/:slug/"
+
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  region = "regions"
+  author = "authors"
+  blog_category = "blog_categories"
+
+# Menu
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Heritage Sites"
+    url = "/sites/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Regions"
+    url = "/regions/"
+    weight = 3
+
+  [[menu.main]]
+    name = "UNESCO Sites"
+    url = "/tags/unesco/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 5
+
+# Params
+[params]
+  description = "Discover Germany's rich cultural and natural heritage. Comprehensive guides to UNESCO sites, monuments, castles, museums, and hidden gems."
+  author = "WorldHeritage.guide"
+
+  # External Image CDN (Cloudflare R2)
+  # Leave empty to use local images, or set to R2 public URL
+  # Example: "https://pub-xxxx.r2.dev" or custom domain
+  imageBaseURL = "https://pub-2acbb9b7266b4170a5ab3498a8936037.r2.dev"
+
+  # Social
+  twitter = ""
+  facebook = ""
+  instagram = ""
+
+  # Analytics
+  googleAnalytics = ""
+
+  # Design
+  primaryColor = "#2C5F2D"
+  accentColor = "#97BC62"
+
+  # Features
+  enableSearch = true
+  enableComments = false
+  enableShareButtons = true
+
+# Markup
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "monokai"
+    lineNos = false
+
+# Output formats
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  page = ["HTML"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+
+# Minification
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = true
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepWhitespace = false
+
+# Sitemap
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5

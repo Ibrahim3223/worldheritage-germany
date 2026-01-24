@@ -1,0 +1,17 @@
+{{/*
+  Image URL Helper - Returns correct URL based on imageBaseURL config
+  Usage: {{ partial "image-url.html" (dict "src" "/images-sites/slug/image.webp" "site" .Site) }}
+
+  If imageBaseURL is set: returns "https://cdn.example.com/images-sites/slug/image.webp"
+  If imageBaseURL is empty: returns "/images-sites/slug/image.webp" (local)
+*/}}
+
+{{- $src := .src -}}
+{{- $baseURL := .site.Params.imageBaseURL | default "" -}}
+
+{{- if $baseURL -}}
+  {{- $cleanSrc := strings.TrimPrefix "/" $src -}}
+  {{- printf "%s/%s" $baseURL $cleanSrc -}}
+{{- else -}}
+  {{- $src | relURL -}}
+{{- end -}}

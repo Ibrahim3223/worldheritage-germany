@@ -1,0 +1,122 @@
+{{ define "main" }}
+
+{{ $authorSlug := .Title | urlize }}
+{{ $authorData := index .Site.Data.authors $authorSlug }}
+
+<!-- Author Header -->
+<section class="bg-gradient-to-br from-forest-700 to-forest-900 text-white py-16 md:py-20">
+  <div class="container-custom">
+    <div class="max-w-4xl mx-auto">
+      <!-- Breadcrumbs -->
+      <nav class="text-sm text-sage-200 mb-8">
+        <ol class="flex items-center gap-2">
+          <li><a href="/" class="hover:text-white">Home</a></li>
+          <li>›</li>
+          <li><a href="/blog/" class="hover:text-white">Blog</a></li>
+          <li>›</li>
+          <li>{{ if $authorData }}{{ $authorData.name }}{{ else }}{{ .Title }}{{ end }}</li>
+        </ol>
+      </nav>
+
+      <div class="flex flex-col md:flex-row gap-8 items-start">
+        <!-- Author Photo -->
+        <div class="flex-shrink-0">
+          <div class="w-32 h-32 rounded-full bg-white/20 flex items-center justify-center text-white font-bold text-4xl">
+            {{ if $authorData }}{{ substr $authorData.name 0 1 }}{{ else }}{{ substr .Title 0 1 }}{{ end }}
+          </div>
+        </div>
+
+        <!-- Author Info -->
+        <div class="flex-1">
+          <h1 class="text-4xl md:text-5xl font-serif font-bold mb-3">
+            {{ if $authorData }}{{ $authorData.name }}{{ else }}{{ .Title }}{{ end }}
+          </h1>
+
+          {{ if $authorData }}
+          <p class="text-xl text-sage-200 mb-4">
+            {{ $authorData.role }}
+          </p>
+
+          <p class="text-sage-100 leading-relaxed mb-6">
+            {{ $authorData.bio }}
+          </p>
+
+          <!-- Expertise -->
+          {{ with $authorData.expertise }}
+          <div class="mb-4">
+            <h3 class="text-sm font-semibold text-sage-300 uppercase tracking-wide mb-2">Expertise</h3>
+            <div class="flex flex-wrap gap-2">
+              {{ range . }}
+              <span class="text-xs px-3 py-1 bg-white/10 rounded-full text-white border border-white/20">
+                {{ . }}
+              </span>
+              {{ end }}
+            </div>
+          </div>
+          {{ end }}
+          {{ end }}
+
+          <p class="text-sage-200">
+            {{ len .Pages }} {{ if eq (len .Pages) 1 }}article{{ else }}articles{{ end }} published
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Articles Grid -->
+<div class="bg-white py-12 md:py-16">
+  <div class="container-custom">
+    <h2 class="text-3xl font-serif font-bold text-charcoal mb-8">
+      Articles by {{ if $authorData }}{{ $authorData.name }}{{ else }}{{ .Title }}{{ end }}
+    </h2>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {{ range .Pages }}
+        {{ partial "blog-card.html" . }}
+      {{ end }}
+    </div>
+
+    <!-- Pagination -->
+    {{ $paginator := .Paginate .Pages 12 }}
+    {{ if gt $paginator.TotalPages 1 }}
+    <div class="flex justify-center mt-12">
+      <nav class="flex items-center gap-2">
+        {{ if $paginator.HasPrev }}
+        <a href="{{ $paginator.Prev.URL }}" class="px-4 py-2 border border-sand rounded-lg hover:bg-cream transition-colors">
+          Previous
+        </a>
+        {{ end }}
+
+        {{ range $paginator.Pagers }}
+        <a
+          href="{{ .URL }}"
+          class="px-4 py-2 border rounded-lg transition-colors {{ if eq . $paginator }}bg-forest-600 text-white border-forest-600{{ else }}border-sand hover:bg-cream{{ end }}"
+        >
+          {{ .PageNumber }}
+        </a>
+        {{ end }}
+
+        {{ if $paginator.HasNext }}
+        <a href="{{ $paginator.Next.URL }}" class="px-4 py-2 border border-sand rounded-lg hover:bg-cream transition-colors">
+          Next
+        </a>
+        {{ end }}
+      </nav>
+    </div>
+    {{ end }}
+
+    <!-- Back to Blog -->
+    <div class="text-center mt-8">
+      <a href="/blog/" class="inline-flex items-center gap-2 text-forest-600 hover:text-forest-700 font-semibold">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
+        </svg>
+        Back to All Articles
+      </a>
+    </div>
+  </div>
+</div>
+
+{{ end }}

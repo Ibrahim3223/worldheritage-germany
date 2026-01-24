@@ -1,0 +1,79 @@
+{{ define "main" }}
+
+<div class="bg-white">
+
+  <!-- Page Header -->
+  <div class="bg-gradient-to-br from-forest-700 to-forest-900 text-white py-12 md:py-16">
+    <div class="container-custom">
+      <h1 class="text-3xl md:text-5xl font-serif font-bold text-white mb-4">
+        {{ .Title }}
+      </h1>
+      <p class="text-lg text-sage-200 max-w-3xl">
+        {{ if eq .Type "categories" }}
+          Explore Germany's heritage sites organized by architectural and cultural types
+        {{ else if eq .Type "regions" }}
+          Discover heritage sites across Germany's diverse regions and cities
+        {{ else if eq .Type "tags" }}
+          Browse sites by special designations and features
+        {{ else }}
+          {{ .Description }}
+        {{ end }}
+      </p>
+    </div>
+  </div>
+
+  <!-- Terms Grid -->
+  <div class="container-custom py-12">
+    {{ if eq .Type "regions" }}
+      <!-- For regions: only show those with 2 or more sites -->
+      {{ $majorRegions := 0 }}
+      {{ range .Data.Terms.Alphabetical }}
+        {{ if ge .Count 2 }}
+          {{ $majorRegions = add $majorRegions 1 }}
+        {{ end }}
+      {{ end }}
+      <div class="mb-8 p-4 bg-sand/30 rounded-lg">
+        <p class="text-stone text-center">
+          <svg class="w-5 h-5 inline-block mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+          </svg>
+          Showing major regions with multiple heritage sites. Total: {{ $majorRegions }} regions.
+        </p>
+      </div>
+      <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+        {{ range .Data.Terms.Alphabetical }}
+          {{ if ge .Count 2 }}
+            <a href="{{ .Page.Permalink }}" class="card hover:scale-105 transition-transform">
+              <div class="card-body text-center py-4">
+                <h3 class="text-base font-serif font-bold text-charcoal mb-1">
+                  {{ .Page.Title }}
+                </h3>
+                <p class="text-xs text-stone">
+                  {{ .Count }} sites
+                </p>
+              </div>
+            </a>
+          {{ end }}
+        {{ end }}
+      </div>
+    {{ else }}
+      <!-- For other taxonomies: show all -->
+      <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+        {{ range .Data.Terms.Alphabetical }}
+          <a href="{{ .Page.Permalink }}" class="card hover:scale-105 transition-transform">
+            <div class="card-body text-center">
+              <h3 class="text-lg font-serif font-bold text-charcoal mb-2">
+                {{ .Page.Title }}
+              </h3>
+              <p class="text-sm text-stone">
+                {{ .Count }} {{ if eq .Count 1 }}site{{ else }}sites{{ end }}
+              </p>
+            </div>
+          </a>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+</div>
+
+{{ end }}

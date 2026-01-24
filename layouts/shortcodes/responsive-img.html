@@ -1,0 +1,23 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $caption := .Get "caption" }}
+{{ $imagePath := printf "/images/%s" $src }}
+
+<figure class="my-6">
+  <img
+    srcset="{{ $imagePath | relURL }} 1920w,
+            {{ $imagePath | relURL }} 1024w,
+            {{ $imagePath | relURL }} 640w"
+    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px"
+    src="{{ $imagePath | relURL }}"
+    alt="{{ $alt }}"
+    loading="lazy"
+    decoding="async"
+    class="w-full rounded-lg shadow-medium"
+  >
+  {{ with $caption }}
+    <figcaption class="text-sm text-stone text-center mt-2 italic">
+      {{ . }}
+    </figcaption>
+  {{ end }}
+</figure>

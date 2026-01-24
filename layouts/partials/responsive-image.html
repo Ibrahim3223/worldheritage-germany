@@ -1,0 +1,78 @@
+{{/*
+  Responsive Image Partial with WebP fallback
+  Usage: {{ partial "responsive-image.html" (dict "src" .imagePath "alt" .altText "class" .classes "loading" "lazy") }}
+*/}}
+
+{{ $src := .src }}
+{{ $alt := .alt | default "" }}
+{{ $class := .class | default "w-full h-full object-cover" }}
+{{ $loading := .loading | default "lazy" }}
+{{ $sizes := .sizes | default "(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" }}
+
+{{/* Check if this is a resource from static folder */}}
+{{ $imagePath := "" }}
+{{ if hasPrefix $src "/" }}
+  {{ $imagePath = strings.TrimPrefix "/" $src }}
+{{ else }}
+  {{ $imagePath = $src }}
+{{ end }}
+
+{{/* Try to get the resource */}}
+{{ $resource := resources.Get $imagePath }}
+
+{{ if $resource }}
+  {{/* Use Hugo image processing to create multiple sizes */}}
+  {{ $imgWebP320 := $resource.Resize "320x webp q85" }}
+  {{ $imgWebP640 := $resource.Resize "640x webp q85" }}
+  {{ $imgWebP1024 := $resource.Resize "1024x webp q85" }}
+  {{ $imgWebP1920 := $resource.Resize "1920x webp q85" }}
+
+  {{/* Create JPEG fallbacks */}}
+  {{ $imgJPG640 := $resource.Resize "640x jpg q85" }}
+
+  <picture>
+    <source
+      type="image/webp"
+      srcset="{{ $imgWebP320.RelPermalink }} 320w,
+              {{ $imgWebP640.RelPermalink }} 640w,
+              {{ $imgWebP1024.RelPermalink }} 1024w,
+              {{ $imgWebP1920.RelPermalink }} 1920w"
+      sizes="{{ $sizes }}"
+    >
+    <img
+      src="{{ $imgJPG640.RelPermalink }}"
+      alt="{{ $alt }}"
+      class="{{ $class }}"
+      loading="{{ $loading }}"
+      decoding="async"
+      width="{{ $imgJPG640.Width }}"
+      height="{{ $imgJPG640.Height }}"
+    >
+  </picture>
+{{ else }}
+  {{/* Fallback for images not in assets - use picture element */}}
+  {{ $srcPath := $src | relURL }}
+  {{ if strings.HasSuffix $srcPath ".webp" }}
+    {{/* If WebP, provide fallback structure */}}
+    {{ $jpgPath := replace $srcPath ".webp" ".jpg" }}
+    <picture>
+      <source type="image/webp" srcset="{{ $srcPath }}">
+      <img
+        src="{{ $jpgPath }}"
+        alt="{{ $alt }}"
+        class="{{ $class }}"
+        loading="{{ $loading }}"
+        decoding="async"
+      >
+    </picture>
+  {{ else }}
+    {{/* Regular image */}}
+    <img
+      src="{{ $srcPath }}"
+      alt="{{ $alt }}"
+      class="{{ $class }}"
+      loading="{{ $loading }}"
+      decoding="async"
+    >
+  {{ end }}
+{{ end }}

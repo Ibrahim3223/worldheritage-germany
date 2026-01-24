@@ -1,0 +1,20 @@
+# Core Dependencies
+SPARQLWrapper>=2.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Data Processing
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# OpenAI
+openai>=1.0.0
+
+# Validation & Quality
+textstat>=0.7.0
+
+# Utilities
+tqdm>=4.66.0

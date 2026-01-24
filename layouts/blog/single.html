@@ -1,0 +1,199 @@
+{{ define "main" }}
+
+<article class="bg-white">
+
+  <!-- Hero Section -->
+  <div class="relative bg-gradient-to-br from-forest-800 to-forest-900 text-white py-12 md:py-16">
+    <div class="container-custom max-w-4xl">
+
+      <!-- Breadcrumbs -->
+      <nav class="text-sm mb-6" style="color: white;">
+        <ol class="flex items-center gap-2">
+          <li><a href="/" class="hover:underline transition-colors" style="color: white;">Home</a></li>
+          <li style="color: rgba(255, 255, 255, 0.6);">›</li>
+          <li><a href="/blog/" class="hover:underline transition-colors" style="color: white;">Blog</a></li>
+          {{ with .Params.blog_category }}
+          <li style="color: rgba(255, 255, 255, 0.6);">›</li>
+          <li><a href="{{ "/blog/blog_categories/" | relLangURL }}{{ . | urlize }}/" class="hover:underline transition-colors" style="color: white;">{{ . }}</a></li>
+          {{ end }}
+        </ol>
+      </nav>
+
+      <!-- Category Badge -->
+      {{ with .Params.blog_category }}
+      <div class="mb-4">
+        <span class="badge badge-unesco">{{ . }}</span>
+      </div>
+      {{ end }}
+
+      <!-- Title -->
+      <h1 class="text-3xl md:text-4xl lg:text-5xl font-serif font-bold mb-4 text-white">
+        {{ .Title }}
+      </h1>
+
+      <!-- Subtitle/Excerpt -->
+      {{ with .Params.excerpt }}
+      <p class="text-lg md:text-xl text-sage-200 mb-6">
+        {{ . }}
+      </p>
+      {{ end }}
+
+      <!-- Meta -->
+      <div class="flex flex-wrap items-center gap-4 text-sm text-sage-200">
+        <!-- Author -->
+        {{ with .Params.author }}
+          {{ $authorData := index $.Site.Data.authors . }}
+          <div class="flex items-center gap-2">
+            <div class="w-10 h-10 rounded-full bg-white/20 flex items-center justify-center text-white font-semibold">
+              {{ substr $authorData.name 0 1 }}
+            </div>
+            <div>
+              <div class="font-medium text-white">{{ $authorData.name }}</div>
+              <div class="text-xs">{{ $authorData.role }}</div>
+            </div>
+          </div>
+        {{ end }}
+
+        <span>•</span>
+
+        <!-- Date -->
+        <time datetime="{{ .Date.Format "2006-01-02" }}">
+          {{ .Date.Format "January 2, 2006" }}
+        </time>
+
+        <!-- Reading Time -->
+        {{ with .ReadingTime }}
+        <span>•</span>
+        <span>{{ . }} min read</span>
+        {{ end }}
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Featured Image -->
+  {{ with .Params.featured_image }}
+  <div class="container-custom py-8 md:py-12">
+    <div class="relative h-96 md:h-[500px] overflow-hidden bg-sand rounded-2xl shadow-xl">
+      <img
+        src="{{ . | relURL }}"
+        alt="{{ $.Title }}"
+        class="w-full h-full object-cover"
+        loading="eager"
+      >
+      <!-- Subtle overlay gradient for depth -->
+      <div class="absolute inset-0 bg-gradient-to-t from-charcoal/20 via-transparent to-transparent pointer-events-none"></div>
+    </div>
+  </div>
+  {{ end }}
+
+  <!-- Content Area -->
+  <div class="py-12 md:py-16">
+    <div class="container-custom">
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-12">
+
+        <!-- Main Content -->
+        <div class="lg:col-span-8">
+          <div class="prose prose-lg max-w-none">
+            {{ .Content }}
+          </div>
+
+          <!-- Tags -->
+          {{ with .Params.tags }}
+          <div class="mt-12 pt-8 border-t border-sand">
+            <h3 class="text-sm font-semibold text-stone uppercase tracking-wide mb-4">Tags</h3>
+            <div class="flex flex-wrap gap-2">
+              {{ range . }}
+              <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/" class="tag">
+                {{ . }}
+              </a>
+              {{ end }}
+            </div>
+          </div>
+          {{ end }}
+
+          <!-- Author Bio -->
+          {{ partial "author-bio-full.html" . }}
+
+          <!-- Share Buttons -->
+          <div class="mt-8 pt-8 border-t border-sand">
+            <h3 class="text-sm font-semibold text-stone uppercase tracking-wide mb-4">Share This Article</h3>
+            <div class="flex gap-3">
+              <a
+                href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="px-4 py-2 bg-[#1DA1F2] text-white rounded-lg hover:opacity-90 transition-opacity"
+                aria-label="Share on Twitter"
+              >
+                Twitter
+              </a>
+              <a
+                href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="px-4 py-2 bg-[#1877F2] text-white rounded-lg hover:opacity-90 transition-opacity"
+                aria-label="Share on Facebook"
+              >
+                Facebook
+              </a>
+              <a
+                href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink }}"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="px-4 py-2 bg-[#0A66C2] text-white rounded-lg hover:opacity-90 transition-opacity"
+                aria-label="Share on LinkedIn"
+              >
+                LinkedIn
+              </a>
+            </div>
+          </div>
+
+          <!-- Navigation -->
+          <div class="mt-12 pt-8 border-t border-sand flex flex-col sm:flex-row justify-between gap-4">
+            {{ with .PrevInSection }}
+            <a href="{{ .Permalink }}" class="flex items-center gap-2 text-forest-600 hover:text-forest-700 font-medium">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
+              </svg>
+              <span>{{ .Title }}</span>
+            </a>
+            {{ end }}
+
+            {{ with .NextInSection }}
+            <a href="{{ .Permalink }}" class="flex items-center gap-2 text-forest-600 hover:text-forest-700 font-medium text-right ml-auto">
+              <span>{{ .Title }}</span>
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </a>
+            {{ end }}
+          </div>
+
+        </div>
+
+        <!-- Sidebar -->
+        <aside class="lg:col-span-4">
+          <div class="lg:sticky lg:top-24 space-y-8">
+
+            <!-- Author Card -->
+            {{ partial "author-bio-widget.html" . }}
+
+            <!-- Table of Contents -->
+            {{ if .Params.toc }}
+              {{ partial "toc.html" . }}
+            {{ end }}
+
+          </div>
+        </aside>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Related Posts -->
+  {{ partial "related-posts.html" . }}
+
+</article>
+
+{{ end }}
