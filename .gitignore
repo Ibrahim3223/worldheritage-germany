@@ -26,3 +26,32 @@ archived_scripts/
 
 # Temporary
 *.tmp
+
+# Logs and output files
+logs/
+*.log
+*_output.txt
+*_progress.txt
+test_gpt_output.txt
+
+# Backup
+.cleanup_backup/
+test_backup/
+*_backup/
+*.bak
+
+# Image processing
+_image-processing/
+
+# Hugo stats
+hugo_stats.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

@@ -3,10 +3,18 @@
   "version": "1.0.0",
   "description": "WorldHeritage.guide - Germany",
   "scripts": {
-    "dev": "hugo server --buildDrafts --buildFuture",
+    "dev": "hugo server --buildDrafts --buildFuture --disableFastRender",
     "build": "hugo --minify",
+    "clean": "rm -rf public resources",
     "build:css": "tailwindcss -i ./static/css/main.css -o ./static/css/styles.css --minify",
-    "watch:css": "tailwindcss -i ./static/css/main.css -o ./static/css/styles.css --watch"
+    "watch:css": "tailwindcss -i ./static/css/main.css -o ./static/css/styles.css --watch",
+    "fetch:wikidata": "python scripts/1_fetch_wikidata.py",
+    "fetch:images": "python scripts/2_fetch_images.py",
+    "optimize:images": "python scripts/2b_optimize_images.py",
+    "generate:content": "python scripts/3_generate_content.py",
+    "upload:images": "python scripts/4_upload_to_r2.py",
+    "validate": "python scripts/utils/validation.py",
+    "pipeline:full": "npm run fetch:wikidata && npm run fetch:images && npm run generate:content && npm run upload:images"
   },
   "dependencies": {
     "alpinejs": "^3.13.0"
